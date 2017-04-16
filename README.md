@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Waitakere Chess Club's website
+
+Established in 1963, the Waitakere Chess club promotes and supports players of all levels and abilities. We meet for regular club nights on Thursdays, and regularly organise tournaments and events. Join us for a game!
+
+### Getting started with website
 
 You can use the [editor on GitHub](https://github.com/waitakerechess/web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
