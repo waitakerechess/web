@@ -22,7 +22,6 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/images/tournaments.jpg
     title: "Tournaments"
-    #excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
 {% include feature_row id="intro" type="center" %}
