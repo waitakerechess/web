@@ -20,15 +20,15 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "Coaching"
     url: /docs/quick-start-guide/
-  - title: "About"
+  - title: "Events"
     url: /about/
-  - title: "Sample Posts"
+  - title: "Resources"
     url: /year-archive/
-  - title: "Sample Collections"
+  - title: "Tournaments"
     url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
+  - title: "About"
     url: /terms/
 
 
