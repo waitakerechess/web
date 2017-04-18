@@ -10,15 +10,13 @@ feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
     title: "Senior Club Night"
-    excerpt: "Thursdays 7.30pm. Play starts 7.45pm and goes until the end of last game.
-    
-Kelston Community Centre, 135 Awaroa Rd (Corner Awaroa & Great North Roads), Sunnyvale, West Auckland."
+    excerpt: "Thursdays 7.30pm. Play starts 7.45pm and goes until the end of last game. <p>Kelston Community Centre<br/>135 Awaroa Rd<br/>Sunnyvale<br/>West Auckland</p>"
     url: "/docs/configuration/"
     btn_label: "Learn More"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Junior Club Night"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    excerpt: "Thursdays 6.15 – 7.15pm during <a href="http://www.education.govt.nz/ministry-of-education/school-terms-and-holidays/#cal2017"> school term time<a/>."
     url: "/docs/layouts/"
     btn_label: "Learn More"
   - image_path: /assets/images/mm-free-feature.png
@@ -27,10 +25,6 @@ Kelston Community Centre, 135 Awaroa Rd (Corner Awaroa & Great North Roads), Sun
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
     url: "/docs/license/"
     btn_label: "Learn More"
-github:
-  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
-intro:
-  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter} [<i class="fa fa-paypal"></i> Tip Me](https://www.paypal.me/mmistakes){: .btn}'
 ---
 
 {% include feature_row id="intro" type="center" %}
