@@ -21,15 +21,15 @@ foo:
 # main links
 main:
   - title: "Coaching"
-    url: /docs/quick-start-guide/
+    url: /docs/coaching/
   - title: "Events"
-    url: /about/
+    url: /docs/events/
   - title: "Resources"
-    url: /year-archive/
+    url: /docs/resources/
   - title: "Tournaments"
-    url: /collection-archive/
+    url: /docs/tournaments/
   - title: "About"
-    url: /terms/
+    url: /docs/about/
 
 
 # documentation links
