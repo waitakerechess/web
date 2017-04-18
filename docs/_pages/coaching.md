@@ -1,6 +1,6 @@
 ---
 title: "Coaching"
-permalink: /docs/coaching/
+permalink: /coaching/
 excerpt: "Coaching"
 redirect_from:
   - /theme-setup/

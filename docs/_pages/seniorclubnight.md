@@ -1,7 +1,7 @@
 ---
-title: "About"
-permalink: /docs/about/
-excerpt: "About"
+title: "Senior club night"
+permalink: /seniorclubnight/
+excerpt: "Senior club night"
 redirect_from:
   - /theme-setup/
 ---
