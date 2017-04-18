@@ -16,7 +16,7 @@ feature_row:
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Junior Club Night"
-    excerpt: "Thursdays 6.15 – 7.15pm during <a href="http://www.education.govt.nz/ministry-of-education/school-terms-and-holidays/#cal2017"> school term time</a>."
+    excerpt: 'Thursdays 6.15 – 7.15pm during <a href="http://www.education.govt.nz/ministry-of-education/school-terms-and-holidays/#cal2017">school term time</a>.'
     url: "/docs/layouts/"
     btn_label: "Learn More"
   - image_path: /assets/images/mm-free-feature.png
