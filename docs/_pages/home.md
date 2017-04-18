@@ -11,19 +11,19 @@ feature_row:
     alt: "customizable"
     title: "Senior Club Night"
     excerpt: "Thursdays 7.30pm till late."
-    url: "/docs/configuration/"
+    url: "/pages/seniorclubnight/"
     btn_label: "Learn More"
   - image_path: /assets/images/juniorclubnight.jpg
     alt: "fully responsive"
     title: "Junior Club Night"
     excerpt: 'Thursdays 6.15 – 7.15pm during <a href="http://www.education.govt.nz/ministry-of-education/school-terms-and-holidays/#cal2017">school term time</a>.'
-    url: "/docs/layouts/"
+    url: "/pages/juniorclubnight/"
     btn_label: "Learn More"
   - image_path: /assets/images/tournaments.jpg
     alt: "100% free"
     title: "Tournaments"
     excerpt: "Trust's open, Auckland Girls, West Auckland"
-    url: "/docs/license/"
+    url: "/pages/tournaments/"
     btn_label: "Learn More"
 ---
 
