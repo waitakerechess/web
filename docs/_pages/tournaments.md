@@ -2,9 +2,8 @@
 title: "Tournaments"
 permalink: /tournaments/
 excerpt: "tournaments"
-last_modified_at: 2016-11-03T10:01:43-04:00
 redirect_from:
   - /theme-setup/
 ---
 
-TODO
+<iframe src="/assets/vega/TrustsOpen/2017/40TrustsOpenA/www40TrustsOpenA/index.html"></iframe>
