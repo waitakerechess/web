@@ -6,4 +6,4 @@ redirect_from:
   - /theme-setup/
 ---
 
-TODO
+THe senior club meets from 7:30 till 10:30 on Thursday nights.
