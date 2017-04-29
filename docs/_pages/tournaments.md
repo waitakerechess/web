@@ -6,6 +6,15 @@ redirect_from:
   - /theme-setup/
 ---
 
+<a href="{{site.baseurl}}/assets/vega/TrustsOpen/2017/40TrustsOpenA/www40TrustsOpenA/index.html" target="_blank">40th Trusts 
+Open A</a>
+
+<a href="{{site.baseurl}}/assets/vega/TrustsOpen/2017/40TrustsOpenA/www40TrustsOpenB/index.html" target="_blank">40th Trusts Open B</a>
+
+<a href="{{site.baseurl}}/assets/vega/TrustsOpen/2017/40TrustsOpenA/www40TrustsOpenC/index.html" target="_blank">40th Trusts Open C</a>
+
+<a href="{{site.baseurl}}/assets/vega/TrustsOpen/2017/40TrustsOpenA/www40TrustsOpenJ/index.html" target="_blank">40th Trusts Open Junior</a>
+
 <iframe style="width: 100%; height: 100vh;" src="{{site.baseurl}}/assets/vega/TrustsOpen/2017/40TrustsOpenA/www40TrustsOpenA/index.html"></iframe>
 
 <iframe style="width: 100%; height: 100vh;" src="{{site.baseurl}}/assets/vega/TrustsOpen/2017/40TrustsOpenB/www40TrustsOpenB/index.html"></iframe>
