@@ -1,0 +1,28 @@
+
+
+
+
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+
+/pgn
+10
+Waitakere Chess Club
+www.waitakerechess.co.nz/
+Trusts Open A
+https://waitakerechess.github.io/web/assets/vega/TrustsOpen/2017/40TrustsOpenA/www40TrustsOpenA/index.html
+Trusts Open B
+https://waitakerechess.github.io/web/assets/vega/TrustsOpen/2017/40TrustsOpenB/www40TrustsOpenB/index.html
+Trusts Open C
+https://waitakerechess.github.io/web/assets/vega/TrustsOpen/2017/40TrustsOpenC/www40TrustsOpenC/index.html
+Trusts Open Junior
+https://waitakerechess.github.io/web/assets/vega/TrustsOpen/2017/40TrustsOpenJ/www40TrustsOpenJ/index.html
