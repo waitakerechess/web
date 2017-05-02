@@ -19,10 +19,10 @@
 Waitakere Chess Club
 www.waitakerechess.co.nz/
 Trusts Open A
-waitakerechess.github.io/web/assets/vega/TrustsOpen/2017/40TrustsOpenA/www40TrustsOpenA/index.html
+waitakerechess.github.io/web/assets/vega/TrustsOpen/2017/40TrustsOpenA/www40TrustsOpenA/
 Trusts Open B
-waitakerechess.github.io/web/assets/vega/TrustsOpen/2017/40TrustsOpenB/www40TrustsOpenB/index.html
+waitakerechess.github.io/web/assets/vega/TrustsOpen/2017/40TrustsOpenB/www40TrustsOpenB/
 Trusts Open C
-waitakerechess.github.io/web/assets/vega/TrustsOpen/2017/40TrustsOpenC/www40TrustsOpenC/index.html
+waitakerechess.github.io/web/assets/vega/TrustsOpen/2017/40TrustsOpenC/www40TrustsOpenC/
 Trusts Open Junior
-waitakerechess.github.io/web/assets/vega/TrustsOpen/2017/40TrustsOpenJ/www40TrustsOpenJ/index.html
+waitakerechess.github.io/web/assets/vega/TrustsOpen/2017/40TrustsOpenJ/www40TrustsOpenJ/
