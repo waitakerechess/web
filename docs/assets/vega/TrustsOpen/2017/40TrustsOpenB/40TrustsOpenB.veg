@@ -9,7 +9,7 @@ IA Bruce Pollard (4303164)##90 minutes + 30 seconds per move
 6  0  10  0  0  0  1  1 
 0  0  0  0    0    0    0.0   0.0   0.0  
  0  
-14
+13
 NAME;          COUNTRY; BIRTHDAY; G; TITLE; IDFIDE; ELOFIDE; KFIDE; IDNAT; ELONAT; KNAT; CLUB; ISAVAL;TSTATUS
 Gunther, Marcella               ;NED;      1993;f;   ;  1032488; 1897;20;0;    0; 0;; 1;11111111111111111111111111
 Gilmour, Mark                   ;NZL;      1964;m;   ;  4302729; 1760;20;4678; 1840; 0;AC; 1;11111111111111111111111111
@@ -24,4 +24,3 @@ Murdoch, Stephen                ;NZL;      1961;m;   ;  4305914; 1510;20;8265; 1
 Goormachtigh, Laurens           ;BEL;      1990;m;   ;   254940; 1517;20;0;    0; 0;; 1;11111111111111111111111111
 Braganza, Nadia                 ;NZL;      2005;f;WCM;  4305337; 1465;40;8918; 1500; 0;NS; 1;11111111111111111111111111
 Qin, Oscar Shu Xuan             ;NZL;      2008;m;   ;  4304314; 1495;40;8655; 1454; 0;AC; 1;11111111111111111111111111
-Qiu, Daniel                     ;NZL;      2002;m;   ;  4307283; 1285;40;9107; 1332; 0;HP; 1;11111111111111111111111111
