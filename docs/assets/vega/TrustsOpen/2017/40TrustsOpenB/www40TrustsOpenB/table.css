@@ -44,7 +44,7 @@ td.odd {
 
 /* round robin game against himself */
 td.hole {
-	background:url(hole.gif) no-repeat center center; 
+	background:url(hole.gif) no-repeat; 
 }
 
 /* table cells */
