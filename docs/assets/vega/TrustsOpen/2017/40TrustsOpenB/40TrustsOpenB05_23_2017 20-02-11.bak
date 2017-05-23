@@ -6,7 +6,7 @@ NZL
 IA Bruce Pollard (4303164)##90 minutes + 30 seconds per move
 0.5  1.0
  12 5 2 4 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
-6  0  10  0  1  0  1  1 
+6  0  10  0  0  0  1  1 
 0  0  0  0    0    0    0.0   0.0   0.0  
  0  
 13
@@ -24,61 +24,3 @@ Murdoch, Stephen                ;NZL;      1961;m;   ;  4305914; 1510;20;8265; 1
 Goormachtigh, Laurens           ;BEL;      1990;m;   ;   254940; 1517;20;0;    0; 0;; 1;11111111111111111111111111
 Braganza, Nadia                 ;NZL;      2005;f;WCM;  4305337; 1465;40;8918; 1500; 0;NS; 1;11111111111111111111111111
 Qin, Oscar Shu Xuan             ;NZL;      2008;m;   ;  4304314; 1495;40;8655; 1454; 0;AC; 1;11111111111111111111111111
-# players color: -1 = black,  1 = white,  0 = nocolor
-  1  
-  2  
-  3  
-  4  
-  5  
-  6  
-  7  
-  8  
-  9  
- 10  
- 11  
- 12  
- 13  
-# players opponent
-  1  
-  2  
-  3  
-  4  
-  5  
-  6  
-  7  
-  8  
-  9  
- 10  
- 11  
- 12  
- 13  
-# players floater: 0 = no floater, 1 = floater
-  1  
-  2  
-  3  
-  4  
-  5  
-  6  
-  7  
-  8  
-  9  
- 10  
- 11  
- 12  
- 13  
-# round results
-  1  
-  2  
-  3  
-  4  
-  5  
-  6  
-  7  
-  8  
-  9  
- 10  
- 11  
- 12  
- 13  
-# code pairing
-
