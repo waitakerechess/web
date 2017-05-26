@@ -9,7 +9,7 @@ IA Bruce Pollard (4303164)##90 minutes + 30 seconds per move
 6  0  10  0  1  0  1  1 
 0  0  0  0    0    0    0.0   0.0   0.0  
  0  
-8
+9
 NAME;          COUNTRY; BIRTHDAY; G; TITLE; IDFIDE; ELOFIDE; KFIDE; IDNAT; ELONAT; KNAT; CLUB; ISAVAL;TSTATUS
 Steadman, Mathew                ;NZL;      2004;m;   ;  4304845; 1511;40;8792; 1477; 0;AC; 1;11111111111111111111111111
 Liu, John                       ;NZL;      2006;m;   ;  4307887; 1394;40;9377; 1445; 0;AC; 1;11111111111111111111111111
@@ -17,6 +17,7 @@ Schurr, Richard                 ;NZL;      1955;m;   ;  4308000; 1365;40;4009; 1
 Qiu, Daniel                     ;NZL;      2002;m;   ;  4307283; 1285;40;9107; 1332; 0;HP; 1;11111111111111111111111111
 Barry, Jacob                    ;NZL;      2002;m;   ;  4304462; 1227;40;8626; 1242; 0;AC; 1;11111111111111111111111111
 Ning, Isabelle Yixuan           ;NZL;      2009;f;   ;  4307763;    0; 0;9360; 1237; 0;AC; 1;11111111111111111111111111
+Gao, Hugh                       ;NZL;      2005;m;   ;  4305116; 1423;40;8872; 1172; 0;PT; 1;11111111111111111111111111
 Xie, Felix                      ;NZL;      2008;m;   ;  4308174;    0; 0;9267; 1049; 0;AC; 1;11111111111111111111111111
 Weng, Xintong (Winston)         ;NZL;      2006;m;   ;  4306414;    0; 0;8853;  945; 0;AC; 1;11111111111111111111111111
 # players color: -1 = black,  1 = white,  0 = nocolor
@@ -28,6 +29,7 @@ Weng, Xintong (Winston)         ;NZL;      2006;m;   ;  4306414;    0; 0;8853;  
   6  
   7  
   8  
+  9  
 # players opponent
   1  
   2  
@@ -37,6 +39,7 @@ Weng, Xintong (Winston)         ;NZL;      2006;m;   ;  4306414;    0; 0;8853;  
   6  
   7  
   8  
+  9  
 # players floater: 0 = no floater, 1 = floater
   1  
   2  
@@ -46,6 +49,7 @@ Weng, Xintong (Winston)         ;NZL;      2006;m;   ;  4306414;    0; 0;8853;  
   6  
   7  
   8  
+  9  
 # round results
   1  
   2  
@@ -55,5 +59,6 @@ Weng, Xintong (Winston)         ;NZL;      2006;m;   ;  4306414;    0; 0;8853;  
   6  
   7  
   8  
+  9  
 # code pairing
 
