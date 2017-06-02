@@ -3,29 +3,28 @@
   1 Aguilar, Juni             PHI      1804F  1980N 
   2 Chung, Francisco          AUS      1956F     0N 
   3 Eade, Don                 NZL  CM  1789F  1922N 
-  4 Gunther, Marcella         NED      1897F     0N 
-  5 Seabrook, Roy             NZL      1876F  1868N 
-  6 Gilmour, Mark             NZL      1760F  1840N 
-  7 Lyall, Simon              NZL      1765F  1819N 
-  8 Punsalan, Vyanla M        NZL WCM  1740F  1804N 
-  9 Meng, Richard             NZL  CM  1633F  1771N 
- 10 Yan, Caroline             NZL      1685F  1755N 
- 11 List, Robert              NZL      1624F  1747N 
- 12 Ha, Huy Minh (Timothy)    VIE      1672F  1734N 
- 13 Holdo, Karl               NZL      1656F  1725N 
- 14 Francis, John             NZL         0F  1684N 
- 15 Chen, Yi Jing Alvin       SGP      1670F     0N 
- 16 Kamberi, Paul             NZL      1581F  1670N 
- 17 Findlay, John             NZL      1744F  1666N 
- 18 Li, Rodney Xiang Rei      NZL      1535F  1660N 
- 19 Sharma, Akshay            NZL      1461F  1639N 
- 20 Murdoch, Stephen          NZL      1490F  1608N 
- 21 Yan, Sarah                NZL      1330F  1581N 
- 22 Dai, Oliver               NZL      1714F  1560N 
- 23 Wang, Aaron Ziwen         NZL      1569F  1558N 
- 24 Hooton, Barry R           NZL      1505F  1554N 
- 25 Goormachtigh, Laurens     BEL      1517F     0N 
- 26 Braganza, Nadia           NZL WCM  1532F  1500N 
- 27 Li, Andrew                NZL      1400F  1467N 
- 28 Liu, Xinyang              NZL      1593F  1458N 
- 29 Qin, Oscar Shu Xuan       NZL      1514F  1454N 
+  4 Seabrook, Roy             NZL      1876F  1868N 
+  5 Gilmour, Mark             NZL      1760F  1840N 
+  6 Lyall, Simon              NZL      1765F  1819N 
+  7 Punsalan, Vyanla M        NZL WCM  1740F  1804N 
+  8 Meng, Richard             NZL  CM  1633F  1771N 
+  9 Yan, Caroline             NZL      1685F  1755N 
+ 10 List, Robert              NZL      1624F  1747N 
+ 11 Ha, Huy Minh (Timothy)    NZL      1672F  1734N 
+ 12 Holdo, Karl               NZL      1656F  1725N 
+ 13 Francis, John             NZL         0F  1684N 
+ 14 Chen, Yi Jing Alvin       SGP      1670F     0N 
+ 15 Kamberi, Paul             NZL      1581F  1670N 
+ 16 Findlay, John             NZL      1744F  1666N 
+ 17 Li, Rodney Xiang Rei      NZL      1535F  1660N 
+ 18 Sharma, Akshay            NZL      1461F  1639N 
+ 19 Murdoch, Stephen          NZL      1490F  1608N 
+ 20 Yan, Sarah                NZL      1330F  1581N 
+ 21 Dai, Oliver               NZL      1714F  1560N 
+ 22 Wang, Aaron Ziwen         NZL      1569F  1558N 
+ 23 Hooton, Barry R           NZL      1505F  1554N 
+ 24 Goormachtigh, Laurens     BEL      1517F     0N 
+ 25 Braganza, Nadia           NZL WCM  1532F  1500N 
+ 26 Li, Andrew                NZL      1400F  1467N 
+ 27 Liu, Xinyang              NZL      1593F  1458N 
+ 28 Qin, Oscar Shu Xuan       NZL      1514F  1454N 

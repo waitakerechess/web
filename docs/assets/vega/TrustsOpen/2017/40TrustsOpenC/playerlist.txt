@@ -10,15 +10,15 @@
   8 Lal, Krystal              NZL      1235F  1285N 
   9 Shen, Aleck               NZL         0F  1265N 
  10 Gong, Jie                 NZL         0F  1261N 
- 11 Barry, Jacob              NZL      1227F  1242N 
- 12 Ning, Isabelle Yixuan     NZL         0F  1237N 
- 13 Dukeson, Ryan             NZL      1407F  1233N 
- 14 Gao, Hugh                 NZL      1423F  1172N 
- 15 Zhang, Toby               NZL      1235F  1158N 
- 16 Chen, Rong (Ronny)        NZL         0F  1108N 
- 17 Xie, Felix                NZL         0F  1049N 
- 18 Xiao, Kelvin              NZL         0F   975N 
- 19 Park-Tamati, Philli       NZL         0F   950N 
- 20 Weng, Xintong (Winston)   NZL         0F   945N 
- 21 Myers, Sean               NZL         0F     0N 
+ 11 Myers, Sean               NZL         0F  1250N 
+ 12 Barry, Jacob              NZL      1227F  1242N 
+ 13 Ning, Isabelle Yixuan     NZL         0F  1237N 
+ 14 Dukeson, Ryan             NZL      1407F  1233N 
+ 15 Gao, Hugh                 NZL      1423F  1172N 
+ 16 Zhang, Toby               NZL      1235F  1158N 
+ 17 Chen, Rong (Ronny)        NZL         0F  1108N 
+ 18 Xie, Felix                NZL         0F  1049N 
+ 19 Xiao, Kelvin              NZL         0F   975N 
+ 20 Park-Tamati, Philli       NZL         0F   950N 
+ 21 Weng, Xintong (Winston)   NZL         0F   945N 
  22 Vaduganathan, Karthikeyan NZL         0F     0N 

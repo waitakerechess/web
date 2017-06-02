@@ -1,16 +1,17 @@
 40th Trust Open Junior : Registered Players 
 
-  1 Wang, Owen                NZL  1190N 
-  2 Zhao, Jay Zi Xuan         NZL   963N 
-  3 Deng, Abraham             NZL   954N 
-  4 Zhang, Kendrick           NZL   922N 
-  5 Jain, Uday                NZL   883N 
-  6 Thurner, Anya             NZL   882N 
-  7 Chen, James               NZL   870N 
-  8 Xu, Hannah                NZL   797N 
-  9 Yu, Jeffrey               NZL   740N 
- 10 Kuniyil, Milan            NZL   257N 
- 11 Chen, Matthew             NZL     0N 
- 12 Lin, Zihao                NZL     0N 
- 13 Liu, Eric                 NZL     0N 
- 14 Wang, Austin              NZL     0N 
+  1 Zhao, Jay Zi Xuan         NZL       2007         0F   963N 
+  2 Deng, Abraham             NZL       2007         0F   954N 
+  3 Zhang, Kendrick           NZL       2009         0F   922N 
+  4 Jain, Uday                NZL       2005         0F   883N 
+  5 Thurner, Anya             NZL       2008         0F   882N 
+  6 Chen, James               NZL       2007         0F   870N 
+  7 Xu, Hannah                NZL       2009         0F   797N 
+  8 Yu, Jeffrey               NZL       2007         0F   740N 
+  9 Kuniyil, Milan            NZL       2005         0F   257N 
+ 10 Chen, Matthew             NZL 2008.03.31         0F     0N 
+ 11 Kuniyil, Mithun           NZL 2011.07.02         0F     0N 
+ 12 Lin, Zihao                NZL 0000.00.00         0F     0N 
+ 13 Liu, Eric                 NZL                    0F     0N 
+ 14 Wang, Austin              NZL 2009.06.26         0F     0N 
+ 15 Wang, Owen                NZL 2009.06.26         0F     0N 

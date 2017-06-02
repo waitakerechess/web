@@ -1,0 +1,21 @@
+﻿
+ ID	Pts	-	Pref	 B5	 B6	   Cur		
+
+  1	  0	 	  A 	   	   	  (8B)		
+  2	  0	 	  A 	   	   	  (9W)		
+  3	  0	 	  A 	   	   	 (10B)		
+  4	  0	 	  A 	   	   	 (11W)		
+  5	  0	 	  A 	   	   	 (12B)		
+  6	  0	 	  A 	   	   	 (13W)		
+  7	  0	 	  A 	   	   	 (14B)		
+  8	  0	 	  A 	   	   	  (1W)		
+  9	  0	 	  A 	   	   	  (2B)		
+ 10	  0	 	  A 	   	   	  (3W)		
+ 11	  0	 	  A 	   	   	  (4B)		
+ 12	  0	 	  A 	   	   	  (5W)		
+ 13	  0	 	  A 	   	   	  (6B)		
+ 14	  0	 	  A 	   	   	  (7W)		
+ 15	  0	 	  A 	   	   	 (bye)		
+
+
+JaVaFo (rrweb.org/javafo) - Rel. 1.4 (Build 1913)
