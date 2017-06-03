@@ -11,25 +11,25 @@
 112 
 122 moves/time, increment
 XXR 6
-001    1 m    Steadman, Mathew                  1477 NZL     4304845 2004        0.0    1          
-001    2 m    Liu, John                         1445 NZL     4307887 2006        0.0    2          
-001    3 m    Schurr, Richard                   1364 NZL     4308000 1955        0.0    3          
-001    4 m    Patel, Rishit                     1353 NZL     4305051 2001        0.0    4          
-001    5 m    Qiu, Daniel                       1332 NZL     4307283 2002        0.0    5          
-001    6 m    Li, Allen                         1311 NZL     4306597 2006        0.0    6          
-001    7 m    Li, Leo Xiang Yu                  1308 NZL     4304497 2004        0.0    7          
-001    8 w    Lal, Krystal                      1285 NZL     4307208 2004        0.0    8          
-001    9 m    Shen, Aleck                       1265 NZL     4305884 2005        0.0    9          
-001   10 m    Gong, Jie                         1261 NZL     4307275 1970        0.0   10          
-001   11 w    Myers, Sean                       1250 NZL     3233006 1977.03.28  0.0   11          
-001   12 m    Barry, Jacob                      1242 NZL     4304462 2002        0.0   12          
-001   13 w    Ning, Isabelle Yixuan             1237 NZL     4307763 2009        0.0   13          
-001   14 m    Dukeson, Ryan                     1233 NZL     4305787 2005        0.0   14          
-001   15 m    Gao, Hugh                         1172 NZL     4305116 2005        0.0   15          
-001   16 m    Zhang, Toby                       1158 NZL     4304543 2005        0.0   16          
-001   17 m    Chen, Rong (Ronny)                1108 NZL     4307160 1978        0.0   17          
-001   18 m    Xie, Felix                        1049 NZL     4308174 2008        0.0   18          
-001   19 m    Xiao, Kelvin                       975 NZL           0             0.0   19          
-001   20 m    Park-Tamati, Philli                950 NZL           0 0000.00.00  0.0   20          
-001   21 m    Weng, Xintong (Winston)            945 NZL     4306414 2006        0.0   21          
-001   22 m    Vaduganathan, Karthikeyan            0 NZL           0 2004.11.02  0.0   22          
+001    1 m    Steadman, Mathew                  1477 NZL     4304845 2004        1.0    1    12 w 1          
+001    2 m    Liu, John                         1445 NZL     4307887 2006        1.0    2    13 b 1          
+001    3 m    Schurr, Richard                   1364 NZL     4308000 1955        0.0   13    14 w 0          
+001    4 m    Patel, Rishit                     1353 NZL     4305051 2001        0.0   14    15 b 0          
+001    5 m    Qiu, Daniel                       1332 NZL     4307283 2002        0.5   11    16 w =          
+001    6 m    Li, Allen                         1311 NZL     4306597 2006        0.0   15    17 b 0          
+001    7 m    Li, Leo Xiang Yu                  1308 NZL     4304497 2004        0.0   16    18 w 0          
+001    8 w    Lal, Krystal                      1285 NZL     4307208 2004        1.0    3    19 b 1          
+001    9 m    Shen, Aleck                       1265 NZL     4305884 2005        1.0    4    20 w 1          
+001   10 m    Gong, Jie                         1261 NZL     4307275 1970        1.0    5    21 b 1          
+001   11 w    Myers, Sean                       1250 NZL     3233006 1977.03.28  1.0    6    22 w 1          
+001   12 m    Barry, Jacob                      1242 NZL     4304462 2002        0.0   17     1 b 0          
+001   13 w    Ning, Isabelle Yixuan             1237 NZL     4307763 2009        0.0   18     2 w 0          
+001   14 m    Dukeson, Ryan                     1233 NZL     4305787 2005        1.0    7     3 b 1          
+001   15 m    Gao, Hugh                         1172 NZL     4305116 2005        1.0    8     4 w 1          
+001   16 m    Zhang, Toby                       1158 NZL     4304543 2005        0.5   12     5 b =          
+001   17 m    Chen, Rong (Ronny)                1108 NZL     4307160 1978        1.0    9     6 w 1          
+001   18 m    Xie, Felix                        1049 NZL     4308174 2008        1.0   10     7 b 1          
+001   19 m    Xiao, Kelvin                       975 NZL           0             0.0   19     8 w 0          
+001   20 m    Park-Tamati, Philli                950 NZL           0 0000.00.00  0.0   20     9 b 0          
+001   21 m    Weng, Xintong (Winston)            945 NZL     4306414 2006        0.0   21    10 w 0          
+001   22 m    Vaduganathan, Karthikeyan            0 NZL           0 2004.11.02  0.0   22    11 b 0          

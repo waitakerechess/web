@@ -1,6 +1,6 @@
 40th Trust Open Junior - Waitakere, NZL
 
-Elo preview at round: 1
+Elo preview at round: 2
 
   ID  NAME                   Elo    K    if -   if =   if +
 -----------------------------------------------------------
