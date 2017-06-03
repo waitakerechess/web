@@ -1,36 +1,36 @@
 40th Trust Open A-Grade
 Waitakere, NZL - 03/06/2017, 05/06/2017
 
-Standing at round 2 without current results
+Standing at round 3 without current results
 
 Pos  Pts  ID  NAME                         | Rtg  PRtg Fed |   DirE    Cmlt    BucT     S-B    Buc1  
 -----------------------------------------------------------------------------------------------------
-  1  1.0   2  FM Hague, Ben                | 2453 2856 NZL |     0.0     1.0     0.0    0.00     0.0 
-  2  1.0   3  IM Dive, Russell J           | 2426 2844 NZL |     0.0     1.0     0.0    0.00     0.0 
-  3  1.0   4  FM Smith, Robert W           | 2348 2829 NZL |     0.0     1.0     0.0    0.00     0.0 
-  4  1.0   6  FM Gong, Daniel Hanwen       | 2325 2742 NZL |     0.0     1.0     0.0    0.00     0.0 
-  5  1.0   7  FM Steadman, Michael V R     | 2309 2724 NZL |     0.0     1.0     0.0    0.00     0.0 
-  6  1.0   9  CM Fan, Allen Chi Zhou       | 2174 2692 NZL |     0.0     1.0     0.0    0.00     0.0 
-  7  1.0  12     Goodhue, Nathan           | 2093 2617 NZL |     0.0     1.0     0.0    0.00     0.0 
-  8  1.0  13     Guico, Leonides           | 2073 2563 NZL |     0.0     1.0     0.0    0.00     0.0 
-  9  1.0  21     Sarmiento, Noel           | 1906 2978 NZL |     0.0     1.0     0.0    0.00     0.0 
- 10  1.0  23  CM Picken, Oliver            | 1882 2964 NZL |     0.0     1.0     0.0    0.00     0.0 
- 11  0.5   1  IM Ker, Anthony F            | 2474 2059 NZL |     0.0     0.5     0.5    0.25     0.0 
- 12  0.5   5  FM McLaren, Leonard J        | 2348 1995 NZL |     0.0     0.5     0.5    0.25     0.0 
- 13  0.5  11  CM Milligan, Helen           | 2116 1863 NZL |     0.0     0.5     0.5    0.25     0.0 
- 14  0.5  14     Macdonald, Paul           | 2059 2474 NZL |     0.0     0.5     0.5    0.25     0.0 
- 15  0.5  18     Runcan, Daniel-Ioan       | 1995 2348 ROU |     0.0     0.5     0.5    0.25     0.0 
- 16  0.5  24     Chen, Meng Boon Marcus    | 1863 2116 SGP |     0.0     0.5     0.5    0.25     0.0 
- 17  0.0   8     Morrell, Gordon           | 2178 1106 CAN |     0.0     0.0     1.0    0.00     0.0 
- 18  0.0  10  CM Duneas, John              | 2164 1082 NZL |     0.0     0.0     1.0    0.00     0.0 
- 19  0.0  15     Krstev, Antonio           | 2056 1653 NZL |     0.0     0.0     1.0    0.00     0.0 
- 20  0.0  16  CM Lim, Benjamin U           | 2044 1626 NZL |     0.0     0.0     1.0    0.00     0.0 
- 21  0.0  17 WFM Zhang, Jasmine Haomo      | 2029 1548 NZL |     0.0     0.0     1.0    0.00     0.0 
- 22  0.0  19     Wright, Caleb             | 1942 1525 NZL |     0.0     0.0     1.0    0.00     0.0 
- 23  0.0  20  CM Nagorski, Alex            | 1924 1509 NZL |     0.0     0.0     1.0    0.00     0.0 
- 24  0.0  22     Shen, Terry               | 1892 1374 NZL |     0.0     0.0     1.0    0.00     0.0 
- 25  0.0  25     Mukkattu, Philip          | 1817 1293 NZL |     0.0     0.0     1.0    0.00     0.0 
- 26  0.0  26 WCM Qin, Nicole Shu Yu        | 1763 1273 NZL |     0.0     0.0     1.0    0.00     0.0 
+  1  2.0   2  FM Hague, Ben                | 2453 2915 NZL |     0.0     3.0     2.0    2.00     1.0 
+  2  2.0   3  IM Dive, Russell J           | 2426 2844 NZL |     0.0     3.0     2.0    2.00     1.0 
+  3  2.0   4  FM Smith, Robert W           | 2348 2851 NZL |     0.0     3.0     2.0    2.00     1.0 
+  4  2.0   6  FM Gong, Daniel Hanwen       | 2325 2724 NZL |     0.0     3.0     1.5    1.50     1.0 
+  5  2.0  23  CM Picken, Oliver            | 1882 3037 NZL |     0.0     3.0     1.5    1.50     1.0 
+  6  1.5   1  IM Ker, Anthony F            | 2474 2220 NZL |     0.0     2.0     1.0    0.75     0.5 
+  7  1.5   5  FM McLaren, Leonard J        | 2348 2122 NZL |     0.0     2.0     1.0    0.75     0.5 
+  8  1.5  11  CM Milligan, Helen           | 2116 2154 NZL |     0.0     2.0     1.0    0.75     0.5 
+  9  1.0   7  FM Steadman, Michael V R     | 2309 1903 NZL |     0.0     2.0     2.5    0.50     2.0 
+ 10  1.0  21     Sarmiento, Noel           | 1906 2252 NZL |     0.0     2.0     2.5    0.50     2.0 
+ 11  1.0   9  CM Fan, Allen Chi Zhou       | 2174 2173 NZL |     0.0     2.0     2.0    0.00     2.0 
+ 12  1.0  12     Goodhue, Nathan           | 2093 2617 NZL |     0.0     2.0     2.0    0.00     2.0 
+ 13  1.0  13     Guico, Leonides           | 2073 2056 NZL |     0.0     2.0     2.0    0.00     2.0 
+ 14  1.0  15     Krstev, Antonio           | 2056 2173 NZL |     0.0     1.0     2.0    0.00     2.0 
+ 15  1.0  17 WFM Zhang, Jasmine Haomo      | 2029 2056 NZL |     0.0     1.0     2.0    0.00     2.0 
+ 16  1.0  16  CM Lim, Benjamin U           | 2044 2122 NZL |     0.0     1.0     1.5 
+ 17  0.5  14     Macdonald, Paul           | 2059 2102 NZL |     0.0     1.0     3.0    0.75     1.5 
+ 18  0.5  18     Runcan, Daniel-Ioan       | 1995 2218 ROU |     0.0     1.0     3.0    0.75     1.5 
+ 19  0.5  24     Chen, Meng Boon Marcus    | 1863 2039 SGP |     0.0     1.0     3.0    0.75     1.5 
+ 20  0.5  10  CM Duneas, John              | 2164 1710 NZL |     0.0     0.5     2.5    0.25     2.0 
+ 21  0.5  19     Wright, Caleb             | 1942 2059 NZL |     0.0     0.5     2.5    0.25     2.0 
+ 22  0.5   8     Morrell, Gordon           | 2178 1731 CAN |     0.0     0.5     1.5    0.25     1.0 
+ 23  0.5  20  CM Nagorski, Alex            | 1924 2044 NZL |     0.0     0.5     1.5    0.25     1.0 
+ 24  0.0  25     Mukkattu, Philip          | 1817 1269 NZL |     0.0     0.0     2.5 
+ 25  0.0  22     Shen, Terry               | 1892 1315 NZL |     0.0     0.0     2.0    0.00     1.0 
+ 26  0.0  26 WCM Qin, Nicole Shu Yu        | 1763 1251 NZL |     0.0     0.0     2.0    0.00     1.0 
 
 Tie Break legend:
   DirE   :  Direct Encounter 
