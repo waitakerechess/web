@@ -14,7 +14,7 @@
 0
 1
 
-web/assets/vega/TrustsOpen/2017/40TrustsOpenA/www40TrustsOpenA/pgn
+/pgn
 10
 Waitakere Chess Club
 www.waitakerechess.co.nz/
