@@ -1,0 +1,109 @@
+Team ranking based on 4 best players of each team:
+
+ Pos  Team Name          Points
+------------------------------------
+   1  AC                   9.0
+   2  NS                   8.0
+   3                       6.0
+   4  HP                   3.0
+   5  PT                   1.5
+   6  MM                   1.5
+   7  CA                   1.0
+   8  UH                   0.0
+   9  WT                   0.0
+
+
+Team composition:
+
+   1  AC                                 9.0
+   ------------------------------------------
+       3  Eade, Don                      2.5
+       6  Lyall, Simon                   2.5
+      12  Holdo, Karl                    2.0
+       9  Yan, Caroline                  2.0
+      18  Sharma, Akshay                 2.0
+       4  Seabrook, Roy                  2.0
+      11  Ha, Huy Minh (Timothy)         1.5
+       5  Gilmour, Mark                  1.5
+      27  Liu, Xinyang                   1.0
+      20  Yan, Sarah                     1.0
+      28  Qin, Oscar Shu Xuan            0.0
+
+   2  NS                                 8.0
+   ------------------------------------------
+       7  Punsalan, Vyanla M             3.0
+       1  Aguilar, Juni                  2.0
+       8  Meng, Richard                  1.5
+      25  Braganza, Nadia                1.5
+      15  Kamberi, Paul                  1.0
+      17  Li, Rodney Xiang Rei           1.0
+      26  Li, Andrew                     1.0
+
+   3                                     6.0
+   ------------------------------------------
+       2  Chung, Francisco               2.5
+      14  Chen, Yi Jing Alvin            2.0
+      24  Goormachtigh, Laurens          1.5
+
+   4  HP                                 3.0
+   ------------------------------------------
+      22  Wang, Aaron Ziwen              2.0
+      21  Dai, Oliver                    1.0
+
+   5  PT                                 1.5
+   ------------------------------------------
+      23  Hooton, Barry R                1.5
+
+   6  MM                                 1.5
+   ------------------------------------------
+      16  Findlay, John                  1.5
+
+   7  CA                                 1.0
+   ------------------------------------------
+      19  Murdoch, Stephen               1.0
+
+   8  UH                                 0.0
+   ------------------------------------------
+      10  List, Robert                   0.0
+
+   9  WT                                 0.0
+   ------------------------------------------
+      13  Francis, John                  0.0
+
+
+
+Best boards:
+
+ Board 1:
+ Pos   Player                     Team              Points
+ ---------------------------------------------------------
+    1  Punsalan, Vyanla M         NS                  3.0
+    2  Eade, Don                  AC                  2.5
+    3  Chung, Francisco                               2.5
+    4  Wang, Aaron Ziwen          HP                  2.0
+    5  Findlay, John              MM                  1.5
+    6  Hooton, Barry R            PT                  1.5
+    7  Murdoch, Stephen           CA                  1.0
+    8  List, Robert               UH                  0.0
+    9  Francis, John              WT                  0.0
+
+ Board 2:
+ Pos   Player                     Team              Points
+ ---------------------------------------------------------
+    1  Lyall, Simon               AC                  2.5
+    2  Chen, Yi Jing Alvin                            2.0
+    3  Aguilar, Juni              NS                  2.0
+    4  Dai, Oliver                HP                  1.0
+
+ Board 3:
+ Pos   Player                     Team              Points
+ ---------------------------------------------------------
+    1  Holdo, Karl                AC                  2.0
+    2  Meng, Richard              NS                  1.5
+    3  Goormachtigh, Laurens                          1.5
+
+ Board 4:
+ Pos   Player                     Team              Points
+ ---------------------------------------------------------
+    1  Yan, Caroline              AC                  2.0
+    2  Braganza, Nadia            NS                  1.5

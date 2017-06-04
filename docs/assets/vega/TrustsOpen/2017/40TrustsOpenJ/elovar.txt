@@ -1,23 +1,23 @@
 40th Trust Open Junior
 Waitakere, NZL - 03/06/2017, 05/06/2017
 
-Rating variation at round 2
+Rating variation at round 3
 
   ID  NAME                  K   Rtg     var   Per.Rtg
 ---------------------------------------------------------
-   1  Zhao, Jay Zi Xuan      0   963     0      370
-   2  Deng, Abraham          0   954     0      929
-   3  Zhang, Kendrick        0   922     0        0
+   1  Zhao, Jay Zi Xuan      0   963     0      637
+   2  Deng, Abraham          0   954     0     1132
+   3  Zhang, Kendrick        0   922     0      125
    4  Jain, Uday             0   883     0        0
-   5  Thurner, Anya          0   882     0      370
+   5  Thurner, Anya          0   882     0      372
    6  Chen, James            0   870     0      800
-   7  Xu, Hannah             0   797     0        0
-   8  Yu, Jeffrey            0   740     0     1723
-   9  Kuniyil, Milan         0   257     0      477
-  10  Chen, Matthew          0     0     0     1660
-  11  Kuniyil, Mithun        0     0     0      154
-  12  Lin, Zihao             0     0     0      123
-  13  Liu, Eric              0     0     0        0
+   7  Xu, Hannah             0   797     0      196
+   8  Yu, Jeffrey            0   740     0     1058
+   9  Kuniyil, Milan         0   257     0      193
+  10  Chen, Matthew          0     0     0      988
+  11  Kuniyil, Mithun        0     0     0      138
+  12  Lin, Zihao             0     0     0      576
+  13  Liu, Eric              0     0     0      472
   14  Wang, Austin           0     0     0        0
   15  Wang, Owen             0     0     0        0
 

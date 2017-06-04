@@ -1,6 +1,6 @@
 40th Trust Open B-Grade - Waitakere, NZL
 
-Elo preview at round: 3
+Elo preview at round: 4
 
   ID  NAME                   Elo    K    if -   if =   if +
 -----------------------------------------------------------

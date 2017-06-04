@@ -1,25 +1,25 @@
 40th Trust Open Junior
 Waitakere, NZL - 03/06/2017, 05/06/2017
 
-Standing at round 3 without current results
+Standing at round 4 without current results
 
 Pos  Pts  ID  NAME                         | Rtg  PRtg Fed |   DirE    Cmlt    BucT     S-B    Buc1  
 -----------------------------------------------------------------------------------------------------
-  1  2.0   8     Yu, Jeffrey               |  740 1723 NZL |     0.0     3.0     2.0    2.00     1.0 
-  2  2.0  10     Chen, Matthew             |    0 1660 NZL |     0.0     3.0     2.0    2.00     1.0 
-  3  2.0   2     Deng, Abraham             |  954  929 NZL |     0.0     3.0     1.5 
-  4  2.0   6     Chen, James               |  870  800 NZL |     0.0     3.0     0.5 
-  5  1.0  11     Kuniyil, Mithun           |    0  154 NZL |     0.0     2.0     2.5    0.50     2.0 
-  6  1.0  15     Wang, Owen                |    0    0 NZL |     0.0     2.0     2.5    0.50     2.0 
-  7  1.0   5     Thurner, Anya             |  882  370 NZL |     0.0     2.0     2.0    0.00     2.0 
-  8  1.0   7     Xu, Hannah                |  797    0 NZL |     0.0     2.0     2.0    0.00     2.0 
-  9  1.0   1     Zhao, Jay Zi Xuan         |  963  370 NZL |     0.0     1.0     2.0    0.00     2.0 
- 10  1.0   3     Zhang, Kendrick           |  922    0 NZL |     0.0     1.0     2.0    0.00     2.0 
- 11  1.0   9     Kuniyil, Milan            |  257  477 NZL |     0.0     1.0     2.0    0.00     2.0 
- 12  0.0  13     Liu, Eric                 |    0    0 NZL |     0.0     0.0     3.0 
- 13  0.0   4     Jain, Uday            (W) |  883    0 NZL |     0.0     0.0     2.5 
- 14  0.0  12     Lin, Zihao                |    0  123 NZL |     0.0     0.0     2.0    0.00     1.0 
- 15  0.0  14     Wang, Austin              |    0    0 NZL |     0.0     0.0     2.0    0.00     1.0 
+  1  3.0   2     Deng, Abraham             |  954 1132 NZL |     0.0     6.0     3.5    3.50     3.0 
+  2  3.0   6     Chen, James               |  870  800 NZL |     0.0     6.0     3.5    3.50     3.0 
+  3  2.0   8     Yu, Jeffrey               |  740 1058 NZL |     0.0     5.0     7.0 
+  4  2.0  10     Chen, Matthew             |    0  988 NZL |     0.0     5.0     6.0 
+  5  2.0   5     Thurner, Anya             |  882  372 NZL |     0.0     4.0 
+  6  2.0   1     Zhao, Jay Zi Xuan         |  963  637 NZL |     0.0     3.0     4.0 
+  7  2.0   3     Zhang, Kendrick           |  922  125 NZL |     0.0     3.0     3.5 
+  8  1.0  11     Kuniyil, Mithun           |    0  138 NZL |     0.0     3.0     6.0    1.00     5.0 
+  9  1.0  15     Wang, Owen                |    0    0 NZL |     0.0     3.0     6.0    1.00     5.0 
+ 10  1.0   7     Xu, Hannah                |  797  196 NZL |     0.0     3.0     4.0 
+ 11  1.0   9     Kuniyil, Milan            |  257  193 NZL |     0.0     2.0 
+ 12  1.0  12     Lin, Zihao                |    0  576 NZL |     0.0     1.0     5.0    1.00 
+ 13  1.0  13     Liu, Eric                 |    0  472 NZL |     0.0     1.0     5.0    0.00 
+ 14  0.0   4     Jain, Uday            (W) |  883    0 NZL |     0.0     0.0     4.5 
+ 15  0.0  14     Wang, Austin              |    0    0 NZL |     0.0     0.0     3.0 
 
 Tie Break legend:
   DirE   :  Direct Encounter 

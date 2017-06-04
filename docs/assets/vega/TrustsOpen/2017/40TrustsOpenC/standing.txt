@@ -1,32 +1,32 @@
 40th Trust Open C-Grade
 Waitakere, NZL - 03/06/2017, 05/06/2017
 
-Standing at round 3 without current results
+Standing at round 4 without current results
 
 Pos  Pts  ID  NAME                         | Rtg  PRtg Fed |   DirE    Cmlt    BucT     S-B    Buc1  
 -----------------------------------------------------------------------------------------------------
-  1  2.0   1     Steadman, Mathew          | 1477 2038 NZL |     0.0     3.0     2.0    2.00     1.0 
-  2  2.0  15     Gao, Hugh                 | 1172 2119 NZL |     0.0     3.0     2.0    2.00     1.0 
-  3  2.0  17     Chen, Rong (Ronny)        | 1108 2086 NZL |     0.0     3.0     2.0    2.00     1.0 
-  4  2.0  18     Xie, Felix                | 1049 2087 NZL |     0.0     3.0     2.0    2.00     1.0 
-  5  2.0  11     Myers, Sean               | 1250 1523 NZL |     0.0     3.0     1.0 
-  6  1.0   2     Liu, John                 | 1445 1244 NZL |     0.0     2.0     3.0    1.00     2.0 
-  7  1.0  14     Dukeson, Ryan             | 1233 1421 NZL |     0.0     2.0     3.0    1.00     2.0 
-  8  1.0   8     Lal, Krystal              | 1285 1074 NZL |     0.0     2.0     2.0    0.00     2.0 
-  9  1.0   9     Shen, Aleck               | 1265 1000 NZL |     0.0     2.0     2.0    0.00     2.0 
- 10  1.0  10     Gong, Jie                 | 1261 1027 NZL |     0.0     2.0     2.0    0.00     2.0 
- 11  1.0   4     Patel, Rishit             | 1353 1252 NZL |     0.0     1.0     2.5 
- 12  1.0   6     Li, Allen                 | 1311 1042 NZL |     0.0     1.0     2.0    0.00     2.0 
- 13  1.0   7     Li, Leo Xiang Yu          | 1308 1000 NZL |     0.0     1.0     2.0    0.00     2.0 
- 14  1.0  12     Barry, Jacob              | 1242 1211 NZL |     0.0     1.0     2.0    0.00     2.0 
- 15  1.0   3     Schurr, Richard           | 1364 1196 NZL |     0.0     1.0     1.5 
- 16  1.0  13     Ning, Isabelle Yixuan     | 1237  723 NZL |     0.0     1.0     1.0 
- 17  0.5   5     Qiu, Daniel               | 1332 1063 NZL |     0.5     1.0     1.5    0.25     1.0 
- 18  0.5  16     Zhang, Toby               | 1158 1155 NZL |     0.5     1.0     1.5    0.25     1.0 
- 19  0.0  22     Vaduganathan, Karthikeyan |    0  444 NZL |     0.0     0.0     3.0 
- 20  0.0  19     Xiao, Kelvin              |  975  498 NZL |     0.0     0.0     2.0    0.00     1.0 
- 21  0.0  20     Park-Tamati, Philli       |  950  487 NZL |     0.0     0.0     2.0    0.00     1.0 
- 22  0.0  21     Weng, Xintong (Winston)   |  945  452 NZL |     0.0     0.0     2.0    0.00     1.0 
+  1  3.0  15     Gao, Hugh                 | 1172 2172 NZL |     0.0     6.0     5.5 
+  2  3.0  11     Myers, Sean               | 1250 1631 NZL |     0.0     6.0     4.0 
+  3  2.0   1     Steadman, Mathew          | 1477 1341 NZL |     0.0     5.0     5.5    2.50     4.5 
+  4  2.0  18     Xie, Felix                | 1049 1399 NZL |     0.0     5.0     5.5    2.50     4.5 
+  5  2.0  17     Chen, Rong (Ronny)        | 1108 1464 NZL |     0.0     5.0     5.0 
+  6  2.0   2     Liu, John                 | 1445 1323 NZL |     0.0     4.0 
+  7  2.0   4     Patel, Rishit             | 1353 1381 NZL |     0.0     3.0     5.5 
+  8  2.0   3     Schurr, Richard           | 1364 1342 NZL |     0.0     3.0     4.0 
+  9  2.0   6     Li, Allen                 | 1311 1233 NZL |     0.0     3.0     3.0 
+ 10  1.5  14     Dukeson, Ryan             | 1233 1383 NZL |     0.0     3.5     5.5 
+ 11  1.5   8     Lal, Krystal              | 1285 1128 NZL |     0.0     3.5     4.5 
+ 12  1.5   5     Qiu, Daniel               | 1332 1154 NZL |     0.0     2.5     3.5    0.75     3.5 
+ 13  1.5   7     Li, Leo Xiang Yu          | 1308 1077 NZL |     0.0     2.5     3.5    0.75     3.5 
+ 14  1.5  13     Ning, Isabelle Yixuan     | 1237  910 NZL |     0.0     2.5     3.5    0.75     3.5 
+ 15  1.5  16     Zhang, Toby               | 1158 1224 NZL |     0.0     2.5     3.5    0.75     3.5 
+ 16  1.0  10     Gong, Jie                 | 1261 1014 NZL |     0.0     3.0     5.0 
+ 17  1.0   9     Shen, Aleck               | 1265  992 NZL |     0.0     3.0     4.0 
+ 18  1.0  12     Barry, Jacob              | 1242 1119 NZL |     0.0     2.0 
+ 19  1.0  21     Weng, Xintong (Winston)   |  945  709 NZL |     0.0     1.0 
+ 20  0.0  22     Vaduganathan, Karthikeyan |    0  344 NZL |     0.0     0.0     5.5 
+ 21  0.0  19     Xiao, Kelvin              |  975  451 NZL |     0.0     0.0     5.0 
+ 22  0.0  20     Park-Tamati, Philli       |  950  502 NZL |     0.0     0.0     4.0 
 
 Tie Break legend:
   DirE   :  Direct Encounter 

@@ -1,0 +1,23 @@
+﻿
+ ID	Pts	----	Pref	 B5	 B6	   Cur		 R1	 R2	 R3	
+
+  2	  3	 WBW	  b 	   	   	  (6B)		  9	 11	  8	
+  6	  3	 WBW	  b 	   	   	  (2W)		 13	 15	 10	
+
+  1	  2	 BWB	  w 	   	   	  (5W)		  8	 12	  7	
+  3	  2	 BWW	  B 	   	   	  (8B)		 10	 13	 11	
+  5	  2	 BWW	  B 	   	   	  (1B)		 12	  8	 15	
+  8	  2	 WBB	  W 	   	   	  (3W)		  1	  5	  2	
+ 10	  2	 WBB	  W 	   	   	 (11W)		  3	  7	  6	
+
+  7	  1	 BWW	  B 	   	   	  (9B)		 14	 10	  1	
+  9	  1	 BWB	  w 	  ▼	   	  (7W)		  2	 14	 12	
+ 11	  1	  WB	 ~w 	   	   	 (10B)		   	  2	  3	
+ 12	  1	 WBW	  b 	  ▲	   	 (13B)		  5	  1	  9	
+ 13	  1	 BBW	  w 	   	   	 (12W)		  6	  3	 14	
+ 15	  1	  WB	 ~w 	   	   	 (14B)		   	  6	  5	
+
+ 14	  0	 WBB	  W 	   	   	 (15W)		  7	  9	 13	
+
+
+JaVaFo (rrweb.org/javafo) - Rel. 1.4 (Build 1913)

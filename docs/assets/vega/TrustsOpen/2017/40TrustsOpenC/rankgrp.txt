@@ -1,49 +1,49 @@
 40th Trust Open C-Grade
 Waitakere, NZL - 03/06/2017, 05/06/2017
 
-Rated Player Group at round 2
+Rated Player Group at round 4
 
 
 Group limits:  1300 <= rating <= 1499
 Pos score ID NAME                 | Rtg   T  Fed |   DirE    Cmlt    BucT     S-B    Buc1  
 ----------------------------------------------------------------------------------------------------
-  1  1.0   1 Steadman, Mathew     | 1477     NZL |     0.0     1.0     0.0    0.00     0.0 
-  2  1.0   2 Liu, John            | 1445     NZL |     0.0     1.0     0.0    0.00     0.0 
-  3  0.5   5 Qiu, Daniel          | 1332     NZL |     0.5     0.5     0.5    0.25     0.0 
-  4  0.0   3 Schurr, Richard      | 1364     NZL |     0.0     0.0     1.0    0.00     0.0 
-  5  0.0   4 Patel, Rishit        | 1353     NZL |     0.0     0.0     1.0    0.00     0.0 
-  6  0.0   6 Li, Allen            | 1311     NZL |     0.0     0.0     1.0    0.00     0.0 
-  7  0.0   7 Li, Leo Xiang Yu     | 1308     NZL |     0.0     0.0     1.0    0.00     0.0 
+  1  2.0   1 Steadman, Mathew     | 1477     NZL |     0.0     5.0     5.5    2.50     4.5 
+  2  2.0   2 Liu, John            | 1445     NZL |     0.0     4.0     6.5    3.50     5.0 
+  3  2.0   4 Patel, Rishit        | 1353     NZL |     0.0     3.0     5.5    2.50     4.5 
+  4  2.0   3 Schurr, Richard      | 1364     NZL |     0.0     3.0     4.0    2.50     3.0 
+  5  2.0   6 Li, Allen            | 1311     NZL |     0.0     3.0     3.0    1.00     3.0 
+  6  1.5   5 Qiu, Daniel          | 1332     NZL |     0.0     2.5     3.5    0.75     3.5 
+  7  1.5   7 Li, Leo Xiang Yu     | 1308     NZL |     0.0     2.5     3.5    0.75     3.5 
 
 
 Group limits:  1240 <= rating <= 1299
 Pos score ID NAME                 | Rtg   T  Fed |   DirE    Cmlt    BucT     S-B    Buc1  
 ----------------------------------------------------------------------------------------------------
-  1  1.0   8 Lal, Krystal         | 1285     NZL |     0.0     1.0     0.0    0.00     0.0 
-  2  1.0   9 Shen, Aleck          | 1265     NZL |     0.0     1.0     0.0    0.00     0.0 
-  3  1.0  10 Gong, Jie            | 1261     NZL |     0.0     1.0     0.0    0.00     0.0 
-  4  1.0  11 Myers, Sean          | 1250     NZL |     0.0     1.0     0.0    0.00     0.0 
-  5  0.0  12 Barry, Jacob         | 1242     NZL |     0.0     0.0     1.0    0.00     0.0 
+  1  3.0  11 Myers, Sean          | 1250     NZL |     0.0     6.0     4.0    4.00     4.0 
+  2  1.5   8 Lal, Krystal         | 1285     NZL |     0.0     3.5     4.5    0.75     4.5 
+  3  1.0  10 Gong, Jie            | 1261     NZL |     0.0     3.0     5.0    1.00     4.0 
+  4  1.0   9 Shen, Aleck          | 1265     NZL |     0.0     3.0     4.0    0.00     4.0 
+  5  1.0  12 Barry, Jacob         | 1242     NZL |     0.0     2.0     5.0    1.00     4.0 
 
 
 Group limits:  1100 <= rating <= 1239
 Pos score ID NAME                 | Rtg   T  Fed |   DirE    Cmlt    BucT     S-B    Buc1  
 ----------------------------------------------------------------------------------------------------
-  1  1.0  14 Dukeson, Ryan        | 1233     NZL |     0.0     1.0     0.0    0.00     0.0 
-  2  1.0  15 Gao, Hugh            | 1172     NZL |     0.0     1.0     0.0    0.00     0.0 
-  3  1.0  17 Chen, Rong (Ronny)   | 1108     NZL |     0.0     1.0     0.0    0.00     0.0 
-  4  0.5  16 Zhang, Toby          | 1158     NZL |     0.5     0.5     0.5    0.25     0.0 
-  5  0.0  13 Ning, Isabelle Yixua | 1237     NZL |     0.0     0.0     1.0    0.00     0.0 
+  1  3.0  15 Gao, Hugh            | 1172     NZL |     0.0     6.0     5.5    5.50     4.0 
+  2  2.0  17 Chen, Rong (Ronny)   | 1108     NZL |     0.0     5.0     5.0    3.00     4.0 
+  3  1.5  14 Dukeson, Ryan        | 1233     NZL |     0.0     3.5     5.5    2.75     4.0 
+  4  1.5  13 Ning, Isabelle Yixua | 1237     NZL |     0.0     2.5     3.5    0.75     3.5 
+  5  1.5  16 Zhang, Toby          | 1158     NZL |     0.0     2.5     3.5    0.75     3.5 
 
 
 Group limits:  0 <= rating <= 1099
 Pos score ID NAME                 | Rtg   T  Fed |   DirE    Cmlt    BucT     S-B    Buc1  
 ----------------------------------------------------------------------------------------------------
-  1  1.0  18 Xie, Felix           | 1049     NZL |     0.0     1.0     0.0    0.00     0.0 
-  2  0.0  19 Xiao, Kelvin         |  975     NZL |     0.0     0.0     1.0    0.00     0.0 
-  3  0.0  20 Park-Tamati, Philli  |  950     NZL |     0.0     0.0     1.0    0.00     0.0 
-  4  0.0  21 Weng, Xintong (Winst |  945     NZL |     0.0     0.0     1.0    0.00     0.0 
-  5  0.0  22 Vaduganathan, Karthi |    0     NZL |     0.0     0.0     1.0    0.00     0.0 
+  1  2.0  18 Xie, Felix           | 1049     NZL |     0.0     5.0     5.5    2.50     4.5 
+  2  1.0  21 Weng, Xintong (Winst |  945     NZL |     0.0     1.0     2.0    0.00     2.0 
+  3  0.0  22 Vaduganathan, Karthi |    0     NZL |     0.0     0.0     5.5    0.00     4.5 
+  4  0.0  19 Xiao, Kelvin         |  975     NZL |     0.0     0.0     5.0    0.00     3.5 
+  5  0.0  20 Park-Tamati, Philli  |  950     NZL |     0.0     0.0     4.0    0.00     3.0 
 
 Generated by Vega - www.vegachess.com
 (copy licensed to: New Zealand Chess Federation)

@@ -1,0 +1,87 @@
+Team ranking based on 4 best players of each team:
+
+ Pos  Team Name          Points
+------------------------------------
+   1  AC                   8.0
+   2                       7.5
+   3  HP                   4.0
+   4  PT                   3.0
+   5  NS                   2.0
+   6  (r)                  2.0
+
+
+Team composition:
+
+   1  AC                                 8.0
+   ------------------------------------------
+       1  Steadman, Mathew               2.0
+      18  Xie, Felix                     2.0
+       2  Liu, John                      2.0
+       4  Patel, Rishit                  2.0
+       7  Li, Leo Xiang Yu               1.5
+      13  Ning, Isabelle Yixuan          1.5
+      16  Zhang, Toby                    1.5
+      12  Barry, Jacob                   1.0
+      21  Weng, Xintong (Winston)        1.0
+      19  Xiao, Kelvin                   0.0
+
+   2                                     7.5
+   ------------------------------------------
+      11  Myers, Sean                    3.0
+       3  Schurr, Richard                2.0
+       8  Lal, Krystal                   1.5
+      10  Gong, Jie                      1.0
+      22  Vaduganathan, Karthikeyan      0.0
+      20  Park-Tamati, Philli            0.0
+
+   3  HP                                 4.0
+   ------------------------------------------
+      14  Dukeson, Ryan                  1.5
+       5  Qiu, Daniel                    1.5
+       9  Shen, Aleck                    1.0
+
+   4  PT                                 3.0
+   ------------------------------------------
+      15  Gao, Hugh                      3.0
+
+   5  NS                                 2.0
+   ------------------------------------------
+       6  Li, Allen                      2.0
+
+   6  (r)                                2.0
+   ------------------------------------------
+      17  Chen, Rong (Ronny)             2.0
+
+
+
+Best boards:
+
+ Board 1:
+ Pos   Player                     Team              Points
+ ---------------------------------------------------------
+    1  Gao, Hugh                  PT                  3.0
+    2  Myers, Sean                                    3.0
+    3  Steadman, Mathew           AC                  2.0
+    4  Chen, Rong (Ronny)         (r)                 2.0
+    5  Li, Allen                  NS                  2.0
+    6  Dukeson, Ryan              HP                  1.5
+
+ Board 2:
+ Pos   Player                     Team              Points
+ ---------------------------------------------------------
+    1  Xie, Felix                 AC                  2.0
+    2  Schurr, Richard                                2.0
+    3  Qiu, Daniel                HP                  1.5
+
+ Board 3:
+ Pos   Player                     Team              Points
+ ---------------------------------------------------------
+    1  Liu, John                  AC                  2.0
+    2  Lal, Krystal                                   1.5
+    3  Shen, Aleck                HP                  1.0
+
+ Board 4:
+ Pos   Player                     Team              Points
+ ---------------------------------------------------------
+    1  Patel, Rishit              AC                  2.0
+    2  Gong, Jie                                      1.0
