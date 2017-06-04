@@ -1,0 +1,34 @@
+﻿
+ ID	 Pts	-----	Pref	 B5	 B6	   Cur		 R1	 R2	 R3	 R4	
+
+ 11	 4.0	 WBWB	  w 	   	   	  (6W)		 22	  2	 18	 15	
+
+  2	 3.0	 BWBW	  b 	   	  ▲	 (15B)		 13	 11	 17	  3	
+  6	 3.0	 BWBW	  b 	   	   	 (11B)		 17	 19	 12	  1	
+ 15	 3.0	 WBBW	  b 	   	   	  (2W)		  4	  8	  1	 11	
+
+  4	 2.5	 BWBW	  b 	   	   	 (18B)		 15	  5	  9	 17	
+  7	 2.5	 WBWB	  w 	   	   	 (16W)		 18	 20	 14	  8	
+ 14	 2.5	 BWBW	  b 	  ▼	   	 (17B)		  3	  1	  7	  9	
+ 16	 2.5	 BWBW	  b 	   	  ▼	  (7B)		  5	  3	 19	 13	
+ 17	 2.5	 WBWB	  w 	   	  ▼	 (14W)		  6	 10	  2	  4	
+ 18	 2.5	 BWBW	  b 	  ▼	   	  (4W)		  7	  9	 11	  5	
+
+  1	 2.0	 WBWB	  w 	   	   	 (10W)		 12	 14	 15	  6	
+  3	 2.0	 WBWB	  w 	   	   	  (8W)		 14	 16	 10	  2	
+  5	 2.0	 WBWB	  w 	  ▲	  ▼	 (21W)		 16	  4	 20	 18	
+ 10	 2.0	 BWBW	  b 	   	   	  (1B)		 21	 17	  3	 12	
+ 21	 2.0	 WBWB	  w 	  ▼	   	  (5B)		 10	 12	 22	 20	
+
+  8	 1.5	 BWBW	  b 	   	   	  (3B)		 19	 15	 13	  7	
+ 13	 1.5	 WBWB	  w 	   	   	 (12W)		  2	 22	  8	 16	
+
+  9	 1.0	 WBWB	  w 	  ▲	   	 (19W)		 20	 18	  4	 14	
+ 12	 1.0	 BWWB	  w 	   	   	 (13B)		  1	 21	  6	 10	
+ 19	 1.0	 WBWB	  w 	   	  ▲	  (9B)		  8	  6	 16	 22	
+
+ 20	 0.0	 BWBW	  b 	  ▲	  ▲	 (22B)		  9	  7	  5	 21	
+ 22	 0.0	 BWBW	  b 	   	   	 (20W)		 11	 13	 21	 19	
+
+
+JaVaFo (rrweb.org/javafo) - Rel. 1.4 (Build 1913)

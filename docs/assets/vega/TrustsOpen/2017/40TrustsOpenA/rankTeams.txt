@@ -2,71 +2,71 @@ Team ranking based on 4 best players of each team:
 
  Pos  Team Name          Points
 ------------------------------------
-   1  AC                   7.0
-   2  HP                   6.5
-   3  WE                   5.0
-   4  NS                   3.5
-   5  WT                   3.0
-   6  PT                   2.5
-   7  MC                   2.5
+   1  AC                   9.5
+   2  HP                   8.5
+   3  WE                   7.0
+   4  NS                   4.0
+   5  WT                   4.0
+   6  MC                   2.5
+   7  PT                   2.5
    8                       1.0
-   9  MM                   0.5
+   9  MM                   1.0
 
 
 Team composition:
 
-   1  AC                                 7.0
+   1  AC                                 9.5
    ------------------------------------------
-       2  Hague, Ben                     2.5
-      12  Goodhue, Nathan                1.5
-       9  Fan, Allen Chi Zhou            1.5
-      17  Zhang, Jasmine Haomo           1.5
-      10  Duneas, John                   1.5
-       7  Steadman, Michael V R          1.0
-      18  Runcan, Daniel-Ioan            1.0
-      14  Macdonald, Paul                1.0
+       2  Hague, Ben                     3.5
+       9  Fan, Allen Chi Zhou            2.0
+      12  Goodhue, Nathan                2.0
+       7  Steadman, Michael V R          2.0
+      17  Zhang, Jasmine Haomo           2.0
+      18  Runcan, Daniel-Ioan            2.0
+      14  Macdonald, Paul                2.0
+      10  Duneas, John                   2.0
+       8  Morrell, Gordon                2.0
       20  Nagorski, Alex                 1.0
-       8  Morrell, Gordon                1.0
       25  Mukkattu, Philip               1.0
       26  Qin, Nicole Shu Yu             0.0
 
-   2  HP                                 6.5
+   2  HP                                 8.5
    ------------------------------------------
+       6  Gong, Daniel Hanwen            3.0
        5  McLaren, Leonard J             2.5
-       6  Gong, Daniel Hanwen            2.0
       16  Lim, Benjamin U                1.5
-      22  Shen, Terry                    0.5
+      22  Shen, Terry                    1.5
 
-   3  WE                                 5.0
+   3  WE                                 7.0
    ------------------------------------------
-       3  Dive, Russell J                3.0
-       1  Ker, Anthony F                 2.0
+       3  Dive, Russell J                4.0
+       1  Ker, Anthony F                 3.0
 
-   4  NS                                 3.5
+   4  NS                                 4.0
    ------------------------------------------
+      11  Milligan, Helen                2.0
       15  Krstev, Antonio                2.0
-      11  Milligan, Helen                1.5
 
-   5  WT                                 3.0
+   5  WT                                 4.0
    ------------------------------------------
-      13  Guico, Leonides                2.0
-      21  Sarmiento, Noel                1.0
+      13  Guico, Leonides                2.5
+      21  Sarmiento, Noel                1.5
 
-   6  PT                                 2.5
-   ------------------------------------------
-      23  Picken, Oliver                 2.5
-
-   7  MC                                 2.5
+   6  MC                                 2.5
    ------------------------------------------
        4  Smith, Robert W                2.5
+
+   7  PT                                 2.5
+   ------------------------------------------
+      23  Picken, Oliver                 2.5
 
    8                                     1.0
    ------------------------------------------
       24  Chen, Meng Boon Marcus         1.0
 
-   9  MM                                 0.5
+   9  MM                                 1.0
    ------------------------------------------
-      19  Wright, Caleb                  0.5
+      19  Wright, Caleb                  1.0
 
 
 
@@ -75,33 +75,33 @@ Best boards:
  Board 1:
  Pos   Player                     Team              Points
  ---------------------------------------------------------
-    1  Dive, Russell J            WE                  3.0
-    2  Hague, Ben                 AC                  2.5
-    3  Smith, Robert W            MC                  2.5
-    4  Picken, Oliver             PT                  2.5
-    5  McLaren, Leonard J         HP                  2.5
-    6  Guico, Leonides            WT                  2.0
-    7  Krstev, Antonio            NS                  2.0
+    1  Dive, Russell J            WE                  4.0
+    2  Hague, Ben                 AC                  3.5
+    3  Gong, Daniel Hanwen        HP                  3.0
+    4  Smith, Robert W            MC                  2.5
+    5  Picken, Oliver             PT                  2.5
+    6  Guico, Leonides            WT                  2.5
+    7  Milligan, Helen            NS                  2.0
     8  Chen, Meng Boon Marcus                         1.0
-    9  Wright, Caleb              MM                  0.5
+    9  Wright, Caleb              MM                  1.0
 
  Board 2:
  Pos   Player                     Team              Points
  ---------------------------------------------------------
-    1  Gong, Daniel Hanwen        HP                  2.0
-    2  Ker, Anthony F             WE                  2.0
-    3  Goodhue, Nathan            AC                  1.5
-    4  Milligan, Helen            NS                  1.5
-    5  Sarmiento, Noel            WT                  1.0
+    1  Ker, Anthony F             WE                  3.0
+    2  McLaren, Leonard J         HP                  2.5
+    3  Fan, Allen Chi Zhou        AC                  2.0
+    4  Krstev, Antonio            NS                  2.0
+    5  Sarmiento, Noel            WT                  1.5
 
  Board 3:
  Pos   Player                     Team              Points
  ---------------------------------------------------------
-    1  Fan, Allen Chi Zhou        AC                  1.5
+    1  Goodhue, Nathan            AC                  2.0
     2  Lim, Benjamin U            HP                  1.5
 
  Board 4:
  Pos   Player                     Team              Points
  ---------------------------------------------------------
-    1  Zhang, Jasmine Haomo       AC                  1.5
-    2  Shen, Terry                HP                  0.5
+    1  Steadman, Michael V R      AC                  2.0
+    2  Shen, Terry                HP                  1.5
