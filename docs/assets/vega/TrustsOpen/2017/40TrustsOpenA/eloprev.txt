@@ -1,6 +1,6 @@
 40th Trust Open A-Grade - Waitakere, NZL
 
-Elo preview at round: 5
+Elo preview at round: 6
 
   ID  NAME                   Elo    K    if -   if =   if +
 -----------------------------------------------------------

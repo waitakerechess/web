@@ -1,55 +1,55 @@
 40th Trust Open B-Grade
 Waitakere, NZL - 30/03/2017, 30/03/2017
 
-Rated Player Group at round 5
+Rated Player Group at round 6
 
 
 Group limits:  1800 <= rating <= 1999
 Pos score ID NAME                 | Rtg   T  Fed |   DirE    Cmlt    BucT     S-B    Buc1  
 ----------------------------------------------------------------------------------------------------
-  1  3.5   7 Punsalan, Vyanla M   | 1804 WCM NZL |     0.0     9.5     9.5    8.00     7.5 
-  2  3.5   3 Eade, Don            | 1922  CM NZL |     0.0     8.5     8.5    7.50     6.5 
-  3  3.0   6 Lyall, Simon         | 1819     NZL |     0.0     8.0    10.0    7.00     8.5 
-  4  3.0   1 Aguilar, Juni        | 1980     PHI |     0.0     7.0     8.0    5.50     6.5 
-  5  3.0   4 Seabrook, Roy        | 1868     NZL |     0.0     6.0     8.0    5.50     6.5 
-  6  2.5   2 Chung, Francisco     | 1956     AUS |     0.0     7.0     9.5    5.00     8.0 
-  7  2.0   5 Gilmour, Mark        | 1840     NZL |     0.0     4.5     8.0    4.00     6.5 
+  1  4.5   7 Punsalan, Vyanla M   | 1804 WCM NZL |     0.0    14.0    14.5   12.50    12.5 
+  2  4.0   6 Lyall, Simon         | 1819     NZL |     0.0    12.0    15.5   12.00    13.0 
+  3  4.0   4 Seabrook, Roy        | 1868     NZL |     0.0    10.0    12.0    9.50    10.0 
+  4  3.5   3 Eade, Don            | 1922  CM NZL |     0.0    12.0    16.0   10.00    14.0 
+  5  3.5   2 Chung, Francisco     | 1956     AUS |     0.0    10.5    13.0    8.25    11.0 
+  6  3.0   1 Aguilar, Juni        | 1980     PHI |     0.0    10.0    13.5    7.00    11.5 
+  7  3.0   5 Gilmour, Mark        | 1840     NZL |     0.0     7.5    11.5    7.00     9.5 
 
 
 Group limits:  1700 <= rating <= 1799
 Pos score ID NAME                 | Rtg   T  Fed |   DirE    Cmlt    BucT     S-B    Buc1  
 ----------------------------------------------------------------------------------------------------
-  1  2.5  12 Holdo, Karl          | 1725     NZL |     0.0     7.5    10.0    5.25     9.0 
-  2  2.5   9 Yan, Caroline        | 1755     NZL |     0.0     7.5     8.5    4.75     7.5 
-  3  2.0   8 Meng, Richard        | 1771  CM NZL |     0.0     6.0    10.0    4.25     8.0 
-  4  1.5  11 Ha, Huy Minh (Timoth | 1734     NZL |     0.0     4.0     7.5    1.75     6.5 
-  5  0.0  10 List, Robert         | 1747     NZL |     0.0     0.0     7.5    0.00     6.5 
+  1  3.0   8 Meng, Richard        | 1771  CM NZL |     0.0     9.0    14.0    7.50    12.0 
+  2  2.5  12 Holdo, Karl          | 1725     NZL |     0.0    10.0    14.5    5.25    13.5 
+  3  2.5   9 Yan, Caroline        | 1755     NZL |     0.0    10.0    14.0    5.25    12.5 
+  4  2.0  11 Ha, Huy Minh (Timoth | 1734     NZL |     0.0     6.0    12.0    3.75    10.5 
+  5  1.0  10 List, Robert         | 1747     NZL |     0.0     1.0     9.5    0.50     9.0 
 
 
 Group limits:  1600 <= rating <= 1699
 Pos score ID NAME                 | Rtg   T  Fed |   DirE    Cmlt    BucT     S-B    Buc1  
 ----------------------------------------------------------------------------------------------------
-  1  2.5  18 Sharma, Akshay       | 1639     NZL |     0.0     7.0    10.0    6.50     8.0 
-  2  2.0  14 Chen, Yi Jing Alvin  | 1670     SGP |     0.0     6.5     9.5    3.50     9.0 
-  3  2.0  19 Murdoch, Stephen     | 1608     NZL |     0.0     5.0     9.5    3.00     8.5 
-  4  2.0  16 Findlay, John        | 1666     NZL |     0.0     5.0     8.5    4.25     7.0 
-  5  2.0  17 Li, Rodney Xiang Rei | 1660     NZL |     0.0     4.0     8.0    1.50     7.5 
-  6  1.5  15 Kamberi, Paul        | 1670     NZL |     0.0     3.5     7.5    1.75     6.5 
-  7  0.5  13 Francis, John        | 1684     NZL |     0.5     0.5     6.0    0.25     5.5 
+  1  3.0  14 Chen, Yi Jing Alvin  | 1670     SGP |     0.0     9.5    12.0    6.00    11.0 
+  2  2.5  18 Sharma, Akshay       | 1639     NZL |     0.0     9.5    17.5    9.00    14.5 
+  3  2.5  16 Findlay, John        | 1666     NZL |     0.0     7.5    14.0    7.00    11.5 
+  4  2.0  19 Murdoch, Stephen     | 1608     NZL |     0.0     7.0    16.0    4.50    14.5 
+  5  2.0  17 Li, Rodney Xiang Rei | 1660     NZL |     0.0     6.0    11.0    2.00    10.0 
+  6  2.0  15 Kamberi, Paul        | 1670     NZL |     0.0     5.5    10.5    3.25     9.5 
+  7  0.5  13 Francis, John        | 1684     NZL |     0.0     1.0     8.5    0.50     7.5 
 
 
 Group limits:  1400 <= rating <= 1599
 Pos score ID NAME                 | Rtg   T  Fed |   DirE    Cmlt    BucT     S-B    Buc1  
 ----------------------------------------------------------------------------------------------------
-  1  2.5  24 Goormachtigh, Lauren | 1517     BEL |     0.0     6.5     6.5    2.50     6.5 
-  2  2.5  23 Hooton, Barry R      | 1554     NZL |     0.0     5.0     6.5    3.00     6.0 
-  3  2.0  22 Wang, Aaron Ziwen    | 1558     NZL |     0.0     5.0     6.5    1.50     6.5 
-  4  2.0  21 Dai, Oliver          | 1560     NZL |     0.0     3.0     6.0    0.50     6.0 
-  5  1.5  25 Braganza, Nadia      | 1500 WCM NZL |     0.0     4.5     8.0    2.75     6.5 
-  6  1.5  20 Yan, Sarah           | 1581     NZL |     0.0     2.5     8.0    1.25     7.5 
-  7  1.0  27 Liu, Xinyang         | 1458     NZL |     0.0     4.0     6.5    0.50     6.0 
-  8  1.0  26 Li, Andrew           | 1467     NZL |     0.0     2.0     6.0    0.00     6.0 
-  9  0.5  28 Qin, Oscar Shu Xuan  | 1454     NZL |     0.5     0.5     6.0    0.25     5.5 
+  1  3.5  24 Goormachtigh, Lauren | 1517     BEL |     0.0    10.0    13.0    7.50    12.0 
+  2  2.5  23 Hooton, Barry R      | 1554     NZL |     0.0     7.5    10.5    3.75    10.0 
+  3  2.5  25 Braganza, Nadia      | 1500 WCM NZL |     0.0     7.0    12.0    4.75    11.0 
+  4  2.5  21 Dai, Oliver          | 1560     NZL |     0.0     5.5    11.5    2.75    11.0 
+  5  2.5  20 Yan, Sarah           | 1581     NZL |     0.0     5.0    13.0    4.00    12.0 
+  6  2.0  22 Wang, Aaron Ziwen    | 1558     NZL |     0.0     7.0    13.0    3.00    12.0 
+  7  1.5  27 Liu, Xinyang         | 1458     NZL |     0.0     5.5     8.0    1.00     7.5 
+  8  1.0  26 Li, Andrew           | 1467     NZL |     0.0     3.0    10.0    1.00     9.0 
+  9  1.0  28 Qin, Oscar Shu Xuan  | 1454     NZL |     0.0     1.5     9.5    1.00     9.0 
 
 Generated by Vega - www.vegachess.com
 (copy licensed to: New Zealand Chess Federation)

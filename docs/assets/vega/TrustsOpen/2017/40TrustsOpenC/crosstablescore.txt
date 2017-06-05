@@ -1,30 +1,30 @@
 40th Trust Open C-Grade
- Cross Table at round 4 sorted by score
+ Cross Table at round 5 sorted by score
 
-Pos NAME                 Rtg   T  Fed  Pts |   1     2     3     4    |  DirE    Cmlt    BucT     S-B    Buc1  
----------------------------------------------------------------------------------------------------------------
-  1 Myers, Sean          1250     NZL  4.0 | +W21  +B3   +W6   +B2    |    0.0    10.0     8.5    8.50     8.5 
-  2 Gao, Hugh            1172     NZL  3.0 | +W8   +B16  +B11  -W1    |    0.0     9.0    10.0    6.00     8.5 
-  3 Liu, John            1445     NZL  3.0 | +B17  -W1   +B5   +W12   |    0.0     7.0    10.0    6.00     8.5 
-  4 Li, Allen            1311     NZL  3.0 | -B5   +W20  +B19  +W11   |    0.0     6.0     6.5    4.00     5.5 
-  5 Chen, Rong (Ronny)   1108     NZL  2.5 | +W4   +B13  -W3   =B8    |    0.0     7.5    10.5    6.25     8.5 
-  6 Xie, Felix           1049     NZL  2.5 | +B10  +W18  -B1   =W14   |    0.0     7.5     9.5    4.50     8.5 
-  7 Dukeson, Ryan        1233     NZL  2.5 | +B12  -W11  =B10  +W18   |    0.0     6.0     7.5    4.25     6.5 
-  8 Patel, Rishit        1353     NZL  2.5 | -B2   +W14  +B18  =W5    |    0.0     5.5     8.5    4.25     7.5 
-  9 Zhang, Toby          1158     NZL  2.5 | =B14  -W12  +B20  +W17   |    0.0     5.0     6.5    3.50     5.5 
- 10 Li, Leo Xiang Yu     1308     NZL  2.5 | -W6   +B22  =W7   +B16   |    0.0     5.0     6.5    2.75     6.5 
- 11 Steadman, Mathew     1477     NZL  2.0 | +W19  +B7   -W2   -B4    |    0.0     7.0     9.5    3.50     8.5 
- 12 Schurr, Richard      1364     NZL  2.0 | -W7   +B9   +W13  -B3    |    0.0     5.0    10.0    4.50     8.0 
- 13 Gong, Jie            1261     NZL  2.0 | +B15  -W5   -B12  +W19   |    0.0     5.0     7.5    3.00     6.5 
- 14 Qiu, Daniel          1332     NZL  2.0 | =W9   -B8   +W22  =B6    |    0.0     4.5     7.5    2.50     7.5 
- 15 Weng, Xintong (Winst  945     NZL  2.0 | -W13  -B19  +W21  +B22   |    0.0     3.0     3.0    0.00     3.0 
- 16 Lal, Krystal         1285     NZL  1.5 | +B20  -W2   =B17  -W10   |    0.5     5.0     8.0    1.75     7.0 
- 17 Ning, Isabelle Yixua 1237     NZL  1.5 | -W3   +B21  =W16  -B9    |    0.5     4.0     7.0    0.75     7.0 
- 18 Shen, Aleck          1265     NZL  1.0 | +W22  -B6   -W8   -B7    |    0.0     4.0     7.5    0.00     7.5 
- 19 Barry, Jacob         1242     NZL  1.0 | -B11  +W15  -W4   -B13   |    0.0     3.0     9.0    2.00     7.0 
- 20 Xiao, Kelvin          975     NZL  1.0 | -W16  -B4   -W9   +B21   |    0.0     1.0     7.0    0.00     7.0 
- 21 Vaduganathan, Karthi    0     NZL  0.0 | -B1   -W17  -B15  -W20   |    0.0     0.0     8.5    0.00     7.5 
- 22 Park-Tamati, Philli   950     NZL  0.0 | -B18  -W10  -B14  -W15   |    0.0     0.0     7.5    0.00     6.5 
+Pos NAME                 Rtg   T  Fed  Pts |   1     2     3     4     5    |  DirE    Cmlt    BucT     S-B    Buc1  
+---------------------------------------------------------------------------------------------------------------------
+  1 Myers, Sean          1250     NZL  4.0 | +W22  +B7   +W11  +B2   -W3    |    0.0    14.0    13.5    9.50    13.5 
+  2 Gao, Hugh            1172     NZL  4.0 | +W5   +B18  +B8   -W1   +W7    |    0.0    13.0    15.0   11.00    13.5 
+  3 Li, Allen            1311     NZL  4.0 | -B10  +W20  +B19  +W8   +B1    |    0.0    10.0    11.5    9.00    10.5 
+  4 Dukeson, Ryan        1233     NZL  3.5 | +B9   -W8   =B6   +W17  +B10   |    0.0     9.5    14.0    9.25    12.0 
+  5 Patel, Rishit        1353     NZL  3.5 | -B2   +W13  +B17  =W10  +B11   |    0.0     9.0    13.5    8.25    11.5 
+  6 Li, Leo Xiang Yu     1308     NZL  3.5 | -W11  +B21  =W4   +B18  +W12   |    0.0     8.5    11.0    6.75    10.0 
+  7 Liu, John            1445     NZL  3.0 | +B14  -W1   +B10  +W9   -B2    |    0.0    10.0    16.0    8.00    13.5 
+  8 Steadman, Mathew     1477     NZL  3.0 | +W19  +B4   -W2   -B3   +W16   |    0.0    10.0    14.5    6.50    13.5 
+  9 Schurr, Richard      1364     NZL  3.0 | -W4   +B12  +W16  -B7   +W18   |    0.0     8.0    12.5    6.00    11.0 
+ 10 Chen, Rong (Ronny)   1108     NZL  2.5 | +W3   +B16  -W7   =B5   -W4    |    0.0    10.0    16.0    7.75    14.0 
+ 11 Xie, Felix           1049     NZL  2.5 | +B6   +W17  -B1   =W13  -W5    |    0.0    10.0    15.5    6.75    13.5 
+ 12 Zhang, Toby          1158     NZL  2.5 | =B13  -W9   +B20  +W14  -B6    |    0.0     7.5    12.5    4.75    11.5 
+ 13 Qiu, Daniel          1332     NZL  2.5 | =W12  -B5   +W21  =B11  =W15   |    0.0     7.0    12.0    4.75    11.0 
+ 14 Ning, Isabelle Yixua 1237     NZL  2.5 | -W7   +B22  =W18  -B12  +W19   |    0.0     6.5     8.0    1.75     8.0 
+ 15 Weng, Xintong (Winst  945     NZL  2.5 | -W16  -B19  +W22  +B21  =B13   |    0.0     5.5     6.5    2.25     6.5 
+ 16 Gong, Jie            1261     NZL  2.0 | +B15  -W10  -B9   +W19  -B8    |    0.0     7.0    12.0    3.50    11.0 
+ 17 Shen, Aleck          1265     NZL  2.0 | +W21  -B11  -W5   -B4   +W20   |    0.0     6.0    11.5    2.00    10.5 
+ 18 Lal, Krystal         1285     NZL  1.5 | +B20  -W2   =B14  -W6   -B9    |    0.0     6.5    14.0    2.25    13.0 
+ 19 Barry, Jacob         1242     NZL  1.0 | -B8   +W15  -W3   -B16  -B14   |    0.0     4.0    14.0    2.50    12.0 
+ 20 Xiao, Kelvin          975     NZL  1.0 | -W18  -B3   -W12  +B22  -B17   |    0.0     2.0    10.0    0.00    10.0 
+ 21 Park-Tamati, Philli   950     NZL  1.0 | -B17  -W6   -B13  -W15  +B22   |    0.0     1.0    10.5    0.00    10.5 
+ 22 Vaduganathan, Karthi    0     NZL  0.0 | -B1   -W14  -B15  -W20  -W21   |    0.0     0.0    11.0    0.00    10.0 
 
 Generated by Vega - www.vegachess.com
 (copy licensed to: New Zealand Chess Federation)

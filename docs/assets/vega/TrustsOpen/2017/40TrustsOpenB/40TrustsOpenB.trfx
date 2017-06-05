@@ -11,31 +11,31 @@
 112 
 122 moves/time, increment
 XXR 6
-001    1 m    Aguilar, Juni                     1980 PHI     5216672 1982        3.0    4    15 w 1    12 b 0    17 w 1    14 b 1          
-001    2 m    Chung, Francisco                  1956 AUS     3207471 1969.02.09  2.5    9    16 b =    11 w 1     9 b 1     3 w 0          
-001    3 m    Eade, Don                         1922 NZL     4302060 1957        3.5    2    17 w 1    14 b =     8 w 1     2 b 1          
-001    4 w    Seabrook, Roy                     1868 NZL     4302354 1973        3.0    5    18 b 0    20 w 1    19 b 1    22 w 1          
-001    5 m    Gilmour, Mark                     1840 NZL     4302729 1964        2.0   17    19 w 0    21 b 1    25 w =    18 w =          
-001    6 m    Lyall, Simon                      1819 NZL     4303148 1971        3.0    3    20 b 1    18 w =    24 b 1     7 w =          
-001    7 w    Punsalan, Vyanla M                1804 NZL     4305850 2004        3.5    1    21 w 1    19 b 1    12 w 1     6 b =          
-001    8 m    Meng, Richard                     1771 NZL     4305000 2006        2.0   13    22 b 1    24 w =     3 b 0    16 w =          
-001    9 w    Yan, Caroline                     1755 NZL     4304616 2002        2.5    7    23 w 1    27 b 1     2 w 0    12 b =          
-001   10 m    List, Robert                      1747 NZL     4303490 1958        0.0   28    24 b 0    22 w 0    26 b 0    21 b 0          
-001   11 m    Ha, Huy Minh (Timothy)            1734 NZL    12417246 1972        1.5   21    25 w =     2 b 0    27 w 1    23 b 0          
-001   12 m    Holdo, Karl                       1725 NZL     4304586 1972        2.5    6    26 b 1     1 w 1     7 b 0     9 w =          
-001   13 m    Francis, John                     1684 NZL           0 1948        0.5   26    27 w 0    23 b 0    21 w 0    28 b =          
-001   14 m    Chen, Yi Jing Alvin               1670 SGP     5804051 1975        2.0   12    28 b 1     3 w =    18 b =     1 w 0          
-001   15 m    Kamberi, Paul                     1670 NZL     4304594 1962        1.5   22     1 b 0    26 w 1    22 b 0    20 w =          
-001   16 m    Findlay, John                     1666 NZL     4307054 1962        2.0   15     2 w =    25 b =    23 w =     8 b =          
-001   17 m    Li, Rodney Xiang Rei              1660 NZL     4304500 2002        2.0   18     3 b 0    28 w 1     1 b 0    26 w 1          
-001   18 m    Sharma, Akshay                    1639 NZL    35000365 1990.09.02  2.5    8     4 w 1     6 b =    14 w =     5 b =          
-001   19 m    Murdoch, Stephen                  1608 NZL     4305914 1961        2.0   14     5 b 1     7 w 0     4 w 0    27 b 1          
-001   20 w    Yan, Sarah                        1581 NZL     4304624 2000        1.5   23     6 w 0     4 b 0    28 w 1    15 b =          
-001   21 m    Dai, Oliver                       1560 NZL     4307305 2004        2.0   19     7 b 0     5 w 0    13 b 1    10 w 1          
-001   22 m    Wang, Aaron Ziwen                 1558 NZL     4304004 2004        2.0   16     8 w 0    10 b 1    15 w 1     4 b 0          
-001   23 m    Hooton, Barry R                   1554 NZL     4306325 1954        2.5   11     9 b 0    13 w 1    16 b =    11 w 1          
-001   24 m    Goormachtigh, Laurens             1517 BEL      254940 1990        2.5   10    10 w 1     8 b =     6 w 0    25 b 1          
-001   25 w    Braganza, Nadia                   1500 NZL     4305337 2005        1.5   20    11 b =    16 w =     5 b =    24 w 0          
-001   26 m    Li, Andrew                        1467 NZL     4306600 2005        1.0   25    12 w 0    15 b 0    10 w 1    17 b 0          
-001   27 m    Liu, Xinyang                      1458 NZL     4307895 2002        1.0   24    13 b 1     9 w 0    11 b 0    19 w 0          
-001   28 m    Qin, Oscar Shu Xuan               1454 NZL     4304314 2008        0.5   27    14 w 0    17 b 0    20 b 0    13 w =          
+001    1 m    Aguilar, Juni                     1980 PHI     5216672 1982        3.0    7    15 w 1    12 b 0    17 w 1    14 b 1     4 w 0          
+001    2 m    Chung, Francisco                  1956 AUS     3207471 1969.02.09  3.5    5    16 b =    11 w 1     9 b 1     3 w 0    18 b 1          
+001    3 m    Eade, Don                         1922 NZL     4302060 1957        3.5    4    17 w 1    14 b =     8 w 1     2 b 1     7 w 0          
+001    4 w    Seabrook, Roy                     1868 NZL     4302354 1973        4.0    3    18 b 0    20 w 1    19 b 1    22 w 1     1 b 1          
+001    5 m    Gilmour, Mark                     1840 NZL     4302729 1964        3.0   10    19 w 0    21 b 1    25 w =    18 w =    22 b 1          
+001    6 m    Lyall, Simon                      1819 NZL     4303148 1971        4.0    2    20 b 1    18 w =    24 b 1     7 w =     9 b 1          
+001    7 w    Punsalan, Vyanla M                1804 NZL     4305850 2004        4.5    1    21 w 1    19 b 1    12 w 1     6 b =     3 b 1          
+001    8 m    Meng, Richard                     1771 NZL     4305000 2006        3.0    9    22 b 1    24 w =     3 b 0    16 w =    23 w 1          
+001    9 w    Yan, Caroline                     1755 NZL     4304616 2002        2.5   12    23 w 1    27 b 1     2 w 0    12 b =     6 w 0          
+001   10 m    List, Robert                      1747 NZL     4303490 1958        1.0   27    24 b 0    22 w 0    26 b 0    21 b 0    13 w 1          
+001   11 m    Ha, Huy Minh (Timothy)            1734 NZL    12417246 1972        2.0   21    25 w =     2 b 0    27 w 1    23 b 0    15 w =          
+001   12 m    Holdo, Karl                       1725 NZL     4304586 1972        2.5   11    26 b 1     1 w 1     7 b 0     9 w =    24 b 0          
+001   13 m    Francis, John                     1684 NZL           0 1948        0.5   28    27 w 0    23 b 0    21 w 0    28 b =    10 b 0          
+001   14 m    Chen, Yi Jing Alvin               1670 SGP     5804051 1975        3.0    8    28 b 1     3 w =    18 b =     1 w 0    19 b 1          
+001   15 m    Kamberi, Paul                     1670 NZL     4304594 1962        2.0   23     1 b 0    26 w 1    22 b 0    20 w =    11 b =          
+001   16 m    Findlay, John                     1666 NZL     4307054 1962        2.5   14     2 w =    25 b =    23 w =     8 b =    21 w =          
+001   17 m    Li, Rodney Xiang Rei              1660 NZL     4304500 2002        2.0   22     3 b 0    28 w 1     1 b 0    26 w 1    20 b 0          
+001   18 m    Sharma, Akshay                    1639 NZL    35000365 1990.09.02  2.5   13     4 w 1     6 b =    14 w =     5 b =     2 w 0          
+001   19 m    Murdoch, Stephen                  1608 NZL     4305914 1961        2.0   19     5 b 1     7 w 0     4 w 0    27 b 1    14 w 0          
+001   20 w    Yan, Sarah                        1581 NZL     4304624 2000        2.5   18     6 w 0     4 b 0    28 w 1    15 b =    17 w 1          
+001   21 m    Dai, Oliver                       1560 NZL     4307305 2004        2.5   17     7 b 0     5 w 0    13 b 1    10 w 1    16 b =          
+001   22 m    Wang, Aaron Ziwen                 1558 NZL     4304004 2004        2.0   20     8 w 0    10 b 1    15 w 1     4 b 0     5 w 0          
+001   23 m    Hooton, Barry R                   1554 NZL     4306325 1954        2.5   15     9 b 0    13 w 1    16 b =    11 w 1     8 b 0          
+001   24 m    Goormachtigh, Laurens             1517 BEL      254940 1990        3.5    6    10 w 1     8 b =     6 w 0    25 b 1    12 w 1          
+001   25 w    Braganza, Nadia                   1500 NZL     4305337 2005        2.5   16    11 b =    16 w =     5 b =    24 w 0    26 b 1          
+001   26 m    Li, Andrew                        1467 NZL     4306600 2005        1.0   25    12 w 0    15 b 0    10 w 1    17 b 0    25 w 0          
+001   27 m    Liu, Xinyang                      1458 NZL     4307895 2002        1.5   24    13 b 1     9 w 0    11 b 0    19 w 0    28 b =          
+001   28 m    Qin, Oscar Shu Xuan               1454 NZL     4304314 2008        1.0   26    14 w 0    17 b 0    20 b 0    13 w =    27 w =          
