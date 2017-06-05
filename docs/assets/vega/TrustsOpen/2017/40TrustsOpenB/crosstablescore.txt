@@ -1,36 +1,36 @@
 40th Trust Open B-Grade
- Cross Table at round 5 sorted by score
+ Cross Table at round 6 sorted by score
 
-Pos NAME                 Rtg   T  Fed  Pts |   1     2     3     4     5    |  DirE    Cmlt    BucT     S-B    Buc1  
----------------------------------------------------------------------------------------------------------------------
-  1 Punsalan, Vyanla M   1804 WCM NZL  4.5 | +W17  +B19  +W11  =B2   +B4    |    0.0    14.0    14.5   12.50    12.5 
-  2 Lyall, Simon         1819     NZL  4.0 | +B18  =W13  +B6   =W1   +B12   |    0.0    12.0    15.5   12.00    13.0 
-  3 Seabrook, Roy        1868     NZL  4.0 | -B13  +W18  +B19  +W20  +B7    |    0.0    10.0    12.0    9.50    10.0 
-  4 Eade, Don            1922  CM NZL  3.5 | +W22  =B8   +W9   +B5   -W1    |    0.0    12.0    16.0   10.00    14.0 
-  5 Chung, Francisco     1956     AUS  3.5 | =B14  +W21  +B12  -W4   +B13   |    0.0    10.5    13.0    8.25    11.0 
-  6 Goormachtigh, Lauren 1517     BEL  3.5 | +W27  =B9   -W2   +B16  +W11   |    0.0    10.0    13.0    7.50    12.0 
-  7 Aguilar, Juni        1980     PHI  3.0 | +W23  -B11  +W22  +B8   -W3    |    0.0    10.0    13.5    7.00    11.5 
-  8 Chen, Yi Jing Alvin  1670     SGP  3.0 | +B26  =W4   =B13  -W7   +B19   |    0.0     9.5    12.0    6.00    11.0 
-  9 Meng, Richard        1771  CM NZL  3.0 | +B20  =W6   -B4   =W14  +W15   |    0.0     9.0    14.0    7.50    12.0 
- 10 Gilmour, Mark        1840     NZL  3.0 | -W19  +B17  =W16  =W13  +B20   |    0.0     7.5    11.5    7.00     9.5 
- 11 Holdo, Karl          1725     NZL  2.5 | +B25  +W7   -B1   =W12  -B6    |    0.0    10.0    14.5    5.25    13.5 
- 12 Yan, Caroline        1755     NZL  2.5 | +W15  +B24  -W5   =B11  -W2    |    0.0    10.0    14.0    5.25    12.5 
- 13 Sharma, Akshay       1639     NZL  2.5 | +W3   =B2   =W8   =B10  -W5    |    0.0     9.5    17.5    9.00    14.5 
- 14 Findlay, John        1666     NZL  2.5 | =W5   =B16  =W15  =B9   =W17   |    0.0     7.5    14.0    7.00    11.5 
- 15 Hooton, Barry R      1554     NZL  2.5 | -B12  +W28  =B14  +W21  -B9    |    0.0     7.5    10.5    3.75    10.0 
- 16 Braganza, Nadia      1500 WCM NZL  2.5 | =B21  =W14  =B10  -W6   +B25   |    0.0     7.0    12.0    4.75    11.0 
- 17 Dai, Oliver          1560     NZL  2.5 | -B1   -W10  +B28  +W27  =B14   |    0.0     5.5    11.5    2.75    11.0 
- 18 Yan, Sarah           1581     NZL  2.5 | -W2   -B3   +W26  =B23  +W22   |    0.0     5.0    13.0    4.00    12.0 
- 19 Murdoch, Stephen     1608     NZL  2.0 | +B10  -W1   -W3   +B24  -W8    |    0.0     7.0    16.0    4.50    14.5 
- 20 Wang, Aaron Ziwen    1558     NZL  2.0 | -W9   +B27  +W23  -B3   -W10   |    0.0     7.0    13.0    3.00    12.0 
- 21 Ha, Huy Minh (Timoth 1734     NZL  2.0 | =W16  -B5   +W24  -B15  =W23   |    0.0     6.0    12.0    3.75    10.5 
- 22 Li, Rodney Xiang Rei 1660     NZL  2.0 | -B4   +W26  -B7   +W25  -B18   |    0.0     6.0    11.0    2.00    10.0 
- 23 Kamberi, Paul        1670     NZL  2.0 | -B7   +W25  -B20  =W18  =B21   |    0.0     5.5    10.5    3.25     9.5 
- 24 Liu, Xinyang         1458     NZL  1.5 | +B28  -W12  -B21  -W19  =B26   |    0.0     5.5     8.0    1.00     7.5 
- 25 Li, Andrew           1467     NZL  1.0 | -W11  -B23  +W27  -B22  -W16   |    0.0     3.0    10.0    1.00     9.0 
- 26 Qin, Oscar Shu Xuan  1454     NZL  1.0 | -W8   -B22  -B18  =W28  =W24   |    0.0     1.5     9.5    1.00     9.0 
- 27 List, Robert         1747     NZL  1.0 | -B6   -W20  -B25  -B17  +W28   |    0.0     1.0     9.5    0.50     9.0 
- 28 Francis, John        1684     NZL  0.5 | -W24  -B15  -W17  =B26  -B27   |    0.0     1.0     8.5    0.50     7.5 
+Pos NAME                 Rtg   T  Fed  Pts |   1     2     3     4     5     6    |  DirE    Cmlt    BucT     S-B    Buc1  
+---------------------------------------------------------------------------------------------------------------------------
+  1 Punsalan, Vyanla M   1804 WCM NZL  5.5 | +W21  +B22  +W12  =B2   +B4   +W5    |    0.0    19.5    20.0   17.75    18.0 
+  2 Lyall, Simon         1819     NZL  4.5 | +B19  =W20  +B8   =W1   +B7   =W4    |    0.0    16.5    22.0   16.00    19.5 
+  3 Chung, Francisco     1956     AUS  4.5 | =B14  +W17  +B7   -W4   +B20  +W8    |    0.0    15.0    19.5   14.00    17.0 
+  4 Eade, Don            1922  CM NZL  4.0 | +W23  =B9   +W13  +B3   -W1   =B2    |    0.0    16.0    23.0   13.50    21.0 
+  5 Seabrook, Roy        1868     NZL  4.0 | -B20  +W19  +B22  +W16  +B6   -B1    |    0.0    14.0    20.0   12.00    18.0 
+  6 Aguilar, Juni        1980     PHI  4.0 | +W18  -B12  +W23  +B9   -W5   +W13   |    0.0    14.0    18.5   11.50    16.5 
+  7 Yan, Caroline        1755     NZL  3.5 | +W11  +B25  -W3   =B12  -W2   +B21   |    0.0    13.5    19.5    9.00    18.0 
+  8 Goormachtigh, Lauren 1517     BEL  3.5 | +W27  =B13  -W2   +B15  +W12  -B3    |    0.0    13.5    19.5    9.00    18.0 
+  9 Chen, Yi Jing Alvin  1670     SGP  3.5 | +B26  =W4   =B20  -W6   +B22  =W10   |    0.0    13.0    17.5    8.50    16.0 
+ 10 Gilmour, Mark        1840     NZL  3.5 | -W22  +B21  =W15  =W20  +B16  =B9    |    0.0    11.0    16.5   10.00    14.5 
+ 11 Hooton, Barry R      1554     NZL  3.5 | -B7   +W28  =B14  +W17  -B13  +W20   |    0.0    11.0    15.5    7.50    15.0 
+ 12 Holdo, Karl          1725     NZL  3.0 | +B24  +W6   -B1   =W7   -B8   =W14   |    0.0    13.0    21.5    9.25    19.5 
+ 13 Meng, Richard        1771  CM NZL  3.0 | +B16  =W8   -B4   =W14  +W11  -B6    |    0.0    12.0    21.0    9.75    18.0 
+ 14 Findlay, John        1666     NZL  3.0 | =W3   =B15  =W11  =B13  =W21  =B12   |    0.0    10.5    19.5    9.75    17.0 
+ 15 Braganza, Nadia      1500 WCM NZL  3.0 | =B17  =W14  =B10  -W8   +B24  =W19   |    0.0    10.0    18.0    8.25    16.0 
+ 16 Wang, Aaron Ziwen    1558     NZL  3.0 | -W13  +B27  +W18  -B5   -W10  +B25   |    0.0    10.0    16.5    6.00    15.0 
+ 17 Ha, Huy Minh (Timoth 1734     NZL  3.0 | =W15  -B3   +W25  -B11  =W18  +B23   |    0.0     9.0    17.5    6.50    16.0 
+ 18 Kamberi, Paul        1670     NZL  3.0 | -B6   +W24  -B16  =W19  =B17  +W22   |    0.0     8.5    17.0    7.00    15.0 
+ 19 Yan, Sarah           1581     NZL  3.0 | -W2   -B5   +W26  =B18  +W23  =B15   |    0.0     8.0    18.0    6.50    16.5 
+ 20 Sharma, Akshay       1639     NZL  2.5 | +W5   =B2   =W9   =B10  -W3   -B11   |    0.0    12.0    23.5    9.75    20.0 
+ 21 Dai, Oliver          1560     NZL  2.5 | -B1   -W10  +B28  +W27  =B14  -W7    |    0.0     8.0    17.5    3.50    17.0 
+ 22 Murdoch, Stephen     1608     NZL  2.0 | +B10  -W1   -W5   +B25  -W9   -B18   |    0.0     9.0    21.0    5.00    19.5 
+ 23 Li, Rodney Xiang Rei 1660     NZL  2.0 | -B4   +W26  -B6   +W24  -B19  -W17   |    0.0     8.0    17.5    3.50    16.0 
+ 24 Li, Andrew           1467     NZL  2.0 | -W12  -B18  +W27  -B23  -W15  +B28   |    0.0     5.0    13.0    2.00    12.5 
+ 25 Liu, Xinyang         1458     NZL  1.5 | +B28  -W7   -B17  -W22  =B26  -W16   |    0.0     7.0    13.5    1.25    13.0 
+ 26 Qin, Oscar Shu Xuan  1454     NZL  1.5 | -W9   -B23  -B19  =W28  =W25  =B27   |    0.0     3.0    12.0    1.75    11.5 
+ 27 List, Robert         1747     NZL  1.5 | -B8   -W16  -B24  -B21  +W28  =W26   |    0.0     2.5    13.0    1.25    12.5 
+ 28 Francis, John        1684     NZL  0.5 | -W25  -B11  -W21  =B26  -B27  -W24   |    0.0     1.5    12.5    0.75    11.0 
 
 Generated by Vega - www.vegachess.com
 (copy licensed to: New Zealand Chess Federation)

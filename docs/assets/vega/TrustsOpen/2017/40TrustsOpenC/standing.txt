@@ -1,32 +1,32 @@
 40th Trust Open C-Grade
 Waitakere, NZL - 03/06/2017, 05/06/2017
 
-Standing at round 6 without current results (last round)
+Standing at round 6 (last round)
 
 Pos  Pts  ID  NAME                         | Rtg  PRtg Fed |   DirE    Cmlt    BucT     S-B    Buc1  
 -----------------------------------------------------------------------------------------------------
-  1  4.0  11     Myers, Sean               | 1250 1235 NZL |     0.0    14.0 
-  2  4.0  15     Gao, Hugh                 | 1172 1602 NZL |     0.0    13.0 
-  3  4.0   6     Li, Allen                 | 1311 1450 NZL |     0.0    10.0 
-  4  3.5  14     Dukeson, Ryan             | 1233 1453 NZL |     0.0     9.5 
-  5  3.5   4     Patel, Rishit             | 1353 1334 NZL |     0.0     9.0 
-  6  3.5   7     Li, Leo Xiang Yu          | 1308 1284 NZL |     0.0     8.5 
-  7  3.0   2     Liu, John                 | 1445 1298 NZL |     0.0    10.0    16.0 
-  8  3.0   1     Steadman, Mathew          | 1477 1316 NZL |     0.0    10.0    14.5 
-  9  3.0   3     Schurr, Richard           | 1364 1348 NZL |     0.0     8.0 
- 10  2.5  17     Chen, Rong (Ronny)        | 1108 1321 NZL |     0.0    10.0    16.0 
- 11  2.5  18     Xie, Felix                | 1049 1302 NZL |     0.0    10.0    15.5 
- 12  2.5  16     Zhang, Toby               | 1158 1243 NZL |     0.0     7.5 
- 13  2.5   5     Qiu, Daniel               | 1332 1091 NZL |     0.0     7.0 
- 14  2.5  13     Ning, Isabelle Yixuan     | 1237 1026 NZL |     0.0     6.5 
- 15  2.5  21     Weng, Xintong (Winston)   |  945  957 NZL |     0.0     5.5 
- 16  2.0  10     Gong, Jie                 | 1261 1155 NZL |     0.0     7.0 
- 17  2.0   9     Shen, Aleck               | 1265 1040 NZL |     0.0     6.0 
- 18  1.5   8     Lal, Krystal              | 1285 1062 NZL |     0.0 
- 19  1.0  12     Barry, Jacob              | 1242 1006 NZL |     0.0     4.0 
- 20  1.0  19     Xiao, Kelvin              |  975  764 NZL |     0.0     2.0 
- 21  1.0  20     Park-Tamati, Philli       |  950  730 NZL |     0.0     1.0 
- 22  0.0  22     Vaduganathan, Karthikeyan |    0  271 NZL |     0.0 
+  1  5.0  11     Myers, Sean               | 1250 1308 NZL |     1.0 
+  2  5.0  15     Gao, Hugh                 | 1172 1627 NZL |     0.0 
+  3  4.5   4     Patel, Rishit             | 1353 1399 NZL |     0.0 
+  4  4.0   6     Li, Allen                 | 1311 1329 NZL |     1.0 
+  5  4.0   1     Steadman, Mathew          | 1477 1402 NZL |     0.0 
+  6  3.5  14     Dukeson, Ryan             | 1233 1352 NZL |     0.0    13.0 
+  7  3.5   7     Li, Leo Xiang Yu          | 1308 1228 NZL |     0.0    12.0 
+  8  3.5   3     Schurr, Richard           | 1364 1327 NZL |     0.0    11.5 
+  9  3.5  16     Zhang, Toby               | 1158 1268 NZL |     0.0    11.0 
+ 10  3.5   5     Qiu, Daniel               | 1332 1176 NZL |     0.0    10.5 
+ 11  3.0   2     Liu, John                 | 1445 1268 NZL |     0.0    13.0    23.5 
+ 12  3.0  17     Chen, Rong (Ronny)        | 1108 1258 NZL |     0.0    13.0    20.0 
+ 13  3.0  13     Ning, Isabelle Yixuan     | 1237 1082 NZL |     0.0     9.5 
+ 14  3.0  21     Weng, Xintong (Winston)   |  945  982 NZL |     0.0     8.5 
+ 15  2.5  18     Xie, Felix                | 1049 1221 NZL |     0.0    12.5 
+ 16  2.5   8     Lal, Krystal              | 1285 1163 NZL |     0.0     9.0 
+ 17  2.0  10     Gong, Jie                 | 1261 1120 NZL |     0.0     9.0 
+ 18  2.0   9     Shen, Aleck               | 1265 1016 NZL |     0.0     8.0 
+ 19  2.0  12     Barry, Jacob              | 1242  914 NZL |     0.0     6.0 
+ 20  2.0  20     Park-Tamati, Philli       |  950  846 NZL |     0.0     3.0 
+ 21  1.0  19     Xiao, Kelvin              |  975  722 NZL |     0.0 
+ 22  0.0  22     Vaduganathan, Karthikeyan |    0  300 NZL |     0.0 
 
 Tie Break legend:
   DirE   :  Direct Encounter 

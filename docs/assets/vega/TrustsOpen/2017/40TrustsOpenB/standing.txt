@@ -1,38 +1,38 @@
 40th Trust Open B-Grade
 Waitakere, NZL - 30/03/2017, 30/03/2017
 
-Standing at round 6 without current results (last round)
+Standing at round 6 (last round)
 
 Pos  Pts  ID  NAME                         | Rtg  PRtg Fed |   DirE    Cmlt    BucT     S-B    Buc1  
 -----------------------------------------------------------------------------------------------------
-  1  4.5   7 WCM Punsalan, Vyanla M        | 1804 2093 NZL |     0.0 
-  2  4.0   6     Lyall, Simon              | 1819 1899 NZL |     0.0    12.0 
-  3  4.0   4     Seabrook, Roy             | 1868 1913 NZL |     0.0    10.0 
-  4  3.5   3  CM Eade, Don                 | 1922 1921 NZL |     0.0    12.0 
-  5  3.5   2     Chung, Francisco          | 1956 1892 AUS |     0.0    10.5 
-  6  3.5  24     Goormachtigh, Laurens     | 1517 1861 BEL |     0.0    10.0 
-  7  3.0   1     Aguilar, Juni             | 1980 1791 PHI |     0.0    10.0 
-  8  3.0  14     Chen, Yi Jing Alvin       | 1670 1793 SGP |     0.0     9.5 
-  9  3.0   8  CM Meng, Richard             | 1771 1715 NZL |     0.0     9.0 
- 10  3.0   5     Gilmour, Mark             | 1840 1645 NZL |     0.0     7.5 
- 11  2.5  12     Holdo, Karl               | 1725 1705 NZL |     0.0    10.0    14.5 
- 12  2.5   9     Yan, Caroline             | 1755 1702 NZL |     0.0    10.0    14.0 
- 13  2.5  18     Sharma, Akshay            | 1639 1831 NZL |     0.0     9.5 
- 14  2.5  16     Findlay, John             | 1666 1668 NZL |     0.0     7.5    14.0 
- 15  2.5  23     Hooton, Barry R           | 1554 1722 NZL |     0.0     7.5    10.5 
- 16  2.5  25 WCM Braganza, Nadia           | 1500 1645 NZL |     0.0     7.0 
- 17  2.5  21     Dai, Oliver               | 1560 1748 NZL |     0.0     5.5 
- 18  2.5  20     Yan, Sarah                | 1581 1694 NZL |     0.0     5.0 
- 19  2.0  19     Murdoch, Stephen          | 1608 1656 NZL |     0.0     7.0    16.0 
- 20  2.0  22     Wang, Aaron Ziwen         | 1558 1707 NZL |     0.0     7.0    13.0 
- 21  2.0  11     Ha, Huy Minh (Timothy)    | 1734 1556 NZL |     0.0     6.0    12.0 
- 22  2.0  17     Li, Rodney Xiang Rei      | 1660 1609 NZL |     0.0     6.0    11.0 
- 23  2.0  15     Kamberi, Paul             | 1670 1592 NZL |     0.0     5.5 
- 24  1.5  27     Liu, Xinyang              | 1458 1498 NZL |     0.0 
- 25  1.0  26     Li, Andrew                | 1467 1420 NZL |     0.0     3.0 
- 26  1.0  28     Qin, Oscar Shu Xuan       | 1454 1371 NZL |     0.0     1.5 
- 27  1.0  10     List, Robert              | 1747 1317 NZL |     0.0     1.0 
- 28  0.5  13     Francis, John             | 1684 1189 NZL |     0.0 
+  1  5.5   7 WCM Punsalan, Vyanla M        | 1804 2151 NZL |     0.0 
+  2  4.5   6     Lyall, Simon              | 1819 1896 NZL |     0.0    16.5 
+  3  4.5   2     Chung, Francisco          | 1956 1899 AUS |     0.0    15.0 
+  4  4.0   3  CM Eade, Don                 | 1922 1905 NZL |     0.0    16.0 
+  5  4.0   4     Seabrook, Roy             | 1868 1820 NZL |     0.0    14.0    20.0 
+  6  4.0   1     Aguilar, Juni             | 1980 1852 PHI |     0.0    14.0    18.5 
+  7  3.5   9     Yan, Caroline             | 1755 1736 NZL |     0.0    13.5    19.5    9.00    18.0 
+  8  3.5  24     Goormachtigh, Laurens     | 1517 1810 BEL |     0.0    13.5    19.5    9.00    18.0 
+  9  3.5  14     Chen, Yi Jing Alvin       | 1670 1798 SGP |     0.0    13.0 
+ 10  3.5   5     Gilmour, Mark             | 1840 1646 NZL |     0.0    11.0    16.5 
+ 11  3.5  23     Hooton, Barry R           | 1554 1765 NZL |     0.0    11.0    15.5 
+ 12  3.0  12     Holdo, Karl               | 1725 1698 NZL |     0.0    13.0 
+ 13  3.0   8  CM Meng, Richard             | 1771 1700 NZL |     0.0    12.0 
+ 14  3.0  16     Findlay, John             | 1666 1678 NZL |     0.0    10.5 
+ 15  3.0  25 WCM Braganza, Nadia           | 1500 1634 NZL |     0.0    10.0    18.0 
+ 16  3.0  22     Wang, Aaron Ziwen         | 1558 1726 NZL |     0.0    10.0    16.5 
+ 17  3.0  11     Ha, Huy Minh (Timothy)    | 1734 1633 NZL |     0.0     9.0 
+ 18  3.0  15     Kamberi, Paul             | 1670 1655 NZL |     0.0     8.5 
+ 19  3.0  20     Yan, Sarah                | 1581 1662 NZL |     0.0     8.0 
+ 20  2.5  18     Sharma, Akshay            | 1639 1728 NZL |     0.0    12.0 
+ 21  2.5  21     Dai, Oliver               | 1560 1692 NZL |     0.0     8.0 
+ 22  2.0  19     Murdoch, Stephen          | 1608 1593 NZL |     0.0     9.0 
+ 23  2.0  17     Li, Rodney Xiang Rei      | 1660 1565 NZL |     0.0     8.0 
+ 24  2.0  26     Li, Andrew                | 1467 1539 NZL |     0.0     5.0 
+ 25  1.5  27     Liu, Xinyang              | 1458 1439 NZL |     0.0     7.0 
+ 26  1.5  28     Qin, Oscar Shu Xuan       | 1454 1440 NZL |     0.0     3.0 
+ 27  1.5  10     List, Robert              | 1747 1347 NZL |     0.0     2.5 
+ 28  0.5  13     Francis, John             | 1684 1139 NZL |     0.0 
 
 Tie Break legend:
   DirE   :  Direct Encounter 
