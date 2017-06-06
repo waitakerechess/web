@@ -1,0 +1,28 @@
+  1,Punsalan, Vyanla M       ,  8994, 21:W, 22:W, 12:W,  2:D,  4:W,  5:W
+  2,Lyall, Simon             ,  7189, 19:W, 20:D,  8:W,  1:D,  7:W,  4:D
+  3,Chung, Francisco         ,     0, 14:D, 17:W,  7:W,  4:L, 20:W,  8:W
+  4,Eade, Don                ,  5070, 23:W,  9:D, 13:W,  3:W,  1:L,  2:D
+  5,Seabrook, Roy            ,  6449, 20:L, 19:W, 22:W, 16:W,  6:W,  1:L
+  6,Aguilar, Juni            ,  9342, 18:W, 12:L, 23:W,  9:W,  5:L, 13:W
+  7,Yan, Caroline            ,  8219, 11:W, 25:W,  3:L, 12:D,  2:L, 21:W
+  8,Goormachtigh, Laurens    ,     0, 27:W, 13:D,  2:L, 15:W, 12:W,  3:L
+  9,Chen, Yi Jing Alvin      ,     0, 26:W,  4:D, 20:D,  6:L, 22:W, 10:D
+ 10,Gilmour, Mark            ,  4678, 22:L, 21:W, 15:D, 20:D, 16:W,  9:D
+ 11,Hooton, Barry R          ,  4147,  7:L, 28:W, 14:D, 17:W, 13:L, 20:W
+ 12,Holdo, Karl              ,  4202, 24:W,  6:W,  1:L,  7:D,  8:L, 14:D
+ 13,Meng, Richard            ,  8692, 16:W,  8:D,  4:L, 14:D, 11:W,  6:L
+ 14,Findlay, John            ,  9216,  3:D, 15:D, 11:D, 13:D, 21:D, 12:D
+ 15,Braganza, Nadia          ,  8918, 17:D, 14:D, 10:D,  8:L, 24:W, 19:D
+ 16,Wang, Aaron Ziwen        ,  8174, 13:L, 27:W, 18:W,  5:L, 10:L, 25:W
+ 17,Ha, Huy Minh (Timothy)   ,  9235, 15:D,  3:L, 25:W, 11:L, 18:D, 23:W
+ 18,Kamberi, Paul            ,  8197,  6:L, 24:W, 16:L, 19:D, 17:D, 22:W
+ 19,Yan, Sarah               ,  8217,  2:L,  5:L, 26:W, 18:D, 23:W, 15:D
+ 20,Sharma, Akshay           ,  9078,  5:W,  2:D,  9:D, 10:D,  3:L, 11:L
+ 21,Dai, Oliver              ,  9111,  1:L, 10:L, 28:W, 27:W, 14:D,  7:L
+ 22,Murdoch, Stephen         ,  8265, 10:W,  1:L,  5:L, 25:W,  9:L, 18:L
+ 23,Li, Rodney Xiang Rei     ,  7328,  4:L, 26:W,  6:L, 24:W, 19:L, 17:L
+ 24,Li, Andrew               ,  9122, 12:L, 18:L, 27:W, 23:L, 15:L, 28:W
+ 25,Liu, Xinyang             ,  8966, 28:W,  7:L, 17:L, 22:L, 26:D, 16:L
+ 26,Qin, Oscar Shu Xuan      ,  8655,  9:L, 23:L, 19:L, 28:D, 25:D, 27:D
+ 27,List, Robert             ,  7460,  8:L, 16:L, 24:L, 21:L, 28:W, 26:D
+ 28,Francis, John            ,  5425, 25:L, 11:L, 21:L, 26:D, 27:L, 24:L
