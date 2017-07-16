@@ -2,7 +2,6 @@
 title: "About"
 permalink: /about/
 excerpt: "About"
-author_profile: false
 redirect_from:
   - /theme-setup/
 ---
