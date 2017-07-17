@@ -1,10 +1,4 @@
 ---
-title: "Home"
-excerpt: "Home"
-permalink: /home/
-redirect_from:
-  - /theme-setup/
----
 layout: splash
 permalink: /
 header:
