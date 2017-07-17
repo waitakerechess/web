@@ -1,4 +1,9 @@
 ---
+title: "Home"
+excerpt: "Home"
+redirect_from:
+  - /theme-setup/
+  ---
 layout: splash
 permalink: /
 header:
