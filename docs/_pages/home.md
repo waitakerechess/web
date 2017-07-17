@@ -1,6 +1,5 @@
 ---
 title: "Home"
-permalink: /home/
 excerpt: "Home"
 redirect_from:
   - /theme-setup/
