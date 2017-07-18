@@ -29,8 +29,8 @@ main:
   - title: "Tournaments"
     url: /tournaments/
     children:
-    title: "Trusts Open"
-    url: /tournaments/trusts-open/
+      - title: "Trusts Open"
+        url: /tournaments/trusts-open/
   - title: "About"
     url: /about/
 
