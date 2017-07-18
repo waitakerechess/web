@@ -30,7 +30,7 @@ main:
     url: /tournaments/
     children:
       - title: "Trusts Open"
-        url: /tournaments/trusts-open/
+        url: /trusts-open/
   - title: "About"
     url: /about/
 

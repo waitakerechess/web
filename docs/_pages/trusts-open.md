@@ -24,25 +24,25 @@ Te Pai Centre (opposite Quality Hotel Lincoln Green) Cnr Lincoln Road & Te Pai P
 <b>Prize Fund</b>
 
 ‘A’ Tournament (1800 and above)
-1st      $700     * Plus $150 bonus for 6 wins
-2nd    $500     * Plus 3 x $75 grade prizes
-3rd     $350     * Plus $10 upset prize each round
-4th     $200
+1st      $700    * Plus $150 bonus for 6 wins
+2nd      $500    * Plus 3 x $75 grade prizes
+3rd      $350    * Plus $10 upset prize each round
+4th      $200
 
 ‘B’ Tournament (1500 to 1999)
-1st       $350    * Plus $100 bonus for 6 wins
-2nd     $250    * Plus 3 x $50 grade prizes
+1st      $350    * Plus $100 bonus for 6 wins
+2nd      $250    * Plus 3 x $50 grade prizes
 3rd      $150    * Plus $10 upset prize each round
 
 ‘C’ Tournament (under 1500)
-1st       $200    * Plus $50 bonus for 6 wins
+1st      $200    * Plus $50 bonus for 6 wins
 2nd      $150    * Plus 3 x $40 grade prizes
 3rd      $100    * Plus $10 upset prize each round
 
 Junior Tournament (under 12 yrs on 1 Jan 2017 and under 1200)
-1st       $150    * Plus under 10 1st $50, 2nd $25
+1st      $150    * Plus under 10 1st $50, 2nd $25
 2nd      $100    * Plus under 8 1st $50, 2nd $25
-3rd       $ 75
+3rd      $ 75
 
 Best Game Prize $100
 

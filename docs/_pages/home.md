@@ -1,7 +1,3 @@
----
-title: "Home"
-redirect_from:
-  - /theme-setup/
   ---
 layout: splash
 permalink: /
