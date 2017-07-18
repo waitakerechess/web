@@ -6,8 +6,6 @@ excerpt: "trustsopen"
 redirect_from:
   - /theme-setup/
 ---
-#Trusts Open
-
 40th Trust Open sponsored by the Trusts Community Foundation.
 
 A Superclass Poison Pawn Grand Prix in Association with D & D Financial Consultants Ltd event.
@@ -15,15 +13,15 @@ Sponsorship
 
 We gratefully acknowledge the generous support of the Trusts Community Foundation. We are also thankful for the support of the Charnwood Trust and the West Auckland Trusts.
 
-##View Tournament
+<b>View Tournament</b>
 
 A-Grade  B-Grade  C-Grade  Junior
 
-##Venue
+<b>Venue</b>
 
 Te Pai Centre (opposite Quality Hotel Lincoln Green) Cnr Lincoln Road & Te Pai Place Henderson, AUCKLAND
 
-##Prize Fund
+<b>Prize Fund</b>
 
 ‘A’ Tournament (1800 and above)
 1st      $700     * Plus $150 bonus for 6 wins
@@ -48,7 +46,7 @@ Junior Tournament (under 12 yrs on 1 Jan 2017 and under 1200)
 
 Best Game Prize $100
 
-##Schedule
+<b>Schedule</b>
 
 Saturday June 3 to Monday June 5 2017
 
@@ -60,7 +58,7 @@ Monday          Round 5    9.30 a.m.
                 Round 6    2.00 p.m.
 Players are asked to report by 9am on Saturday.
 
-##Refreshments
+<b>Refreshments</b>
 
 Complimentary coffee, tea and chilled water will be available throughout. We recommend dinner at the nearby Quality Hotel Lincoln Green.
 
