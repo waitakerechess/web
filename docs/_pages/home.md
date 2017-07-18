@@ -1,6 +1,5 @@
 ---
 title: "Home"
-excerpt: "Home"
 redirect_from:
   - /theme-setup/
   ---

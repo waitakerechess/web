@@ -28,9 +28,11 @@ main:
     url: /resources/
   - title: "Tournaments"
     url: /tournaments/
+    children:
+    title: "Trusts Open"
+    url: /tournaments/trusts-open/
   - title: "About"
     url: /about/
-
 
 # documentation links
 docs:
