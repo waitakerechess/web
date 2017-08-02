@@ -2,9 +2,7 @@
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/playchess.jpg
-  caption:
-
-'Established in 1963, the Waitakere Chess club promotes and supports players of all levels and abilities. We meet for regular club nights on Thursdays, and regularly organise tournaments and events. Join us for a game'
+  caption: 'Established in 1963, the Waitakere Chess club promotes and supports players of all levels and abilities. We meet for regular club nights on Thursdays, and regularly organise tournaments and events. Join us for a game'
 
 feature_row:
   - image_path: /assets/images/seniorclubnight.jpg
