@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Waitakere Chess Club"
 title_separator          : "-"
-name                     : &name "Bruce Pollard" # &name is a YAML anchor which can be *referenced later
-description              : &description "Established in 1963, the Waitakere Chess club promotes and supports players of all levels and abilities. We meet for regular club nights on Thursdays, and regularly organise tournaments and events. Join us for a game!"
+name                     : &name "Waitakere Chess Club" # &name is a YAML anchor which can be *referenced later
+description              : &description "Established in 1963, the Waitakere Chess club promotes and supports players of all levels and abilities.<br/>We meet for regular club nights on Thursdays, and regularly organise tournaments and events. Join us for a game!"
 url                      : https://waitakerechess.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/web" # the subpath of your site, e.g. "/blog"
 repository               : "waitakerechess/web"
