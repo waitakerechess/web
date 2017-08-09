@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-NZ"
 title                    : "Waitakere Chess Club"
 title_separator          : "-"
 name                     : &name "Waitakere Chess Club" # &name is a YAML anchor which can be *referenced later
