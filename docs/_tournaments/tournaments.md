@@ -1,6 +1,6 @@
 ---
 title: "Tournaments"
-permalink: /tournaments/
+permalink: /tournaments/2017/entrants
 excerpt: "tournaments"
 redirect_from:
   - /theme-setup/

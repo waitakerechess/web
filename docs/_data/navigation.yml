@@ -3,6 +3,23 @@ main:
   - title: "Events"
     url: /events/
   - title: "Tournaments"
-    url: /tournaments/
+    url: /tournaments/2017/info
   - title: "About"
     url: /about/
+
+# tournament links
+tournaments:
+  - title: 2017 Trusts Open
+    children:
+      - title: "Info"
+        url: /tournaments/2017/info
+      - title: "Entrants"
+        url: /tournaments/2017/entrants
+  - title: 2017 Auckland Girls
+    children:
+      - title: "Auckland Girls"
+        url: /tournaments/2017/auckland-girls
+  - title: 2017 West Auckland
+    children:
+      - title: "West Auckland"
+        url: /tournaments/2017/west-auckland

@@ -165,19 +165,9 @@ kramdown:
 
 # Collections
 collections:
-  docs:
+  tournaments:
     output: true
     permalink: /:collection/:path/
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-  pets:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -199,10 +189,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _docs
+  # _tournaments
   - scope:
       path: ""
-      type: docs
+      type: tournaments
     values:
       layout: single
       read_time: false
@@ -210,34 +200,7 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "docs"
-  # _recipes
-  - scope:
-      path: ""
-      type: recipes
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _pets
-  - scope:
-      path: ""
-      type: pets
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
-
+        nav: "tournaments"
 
 # Sass/SCSS
 sass:
@@ -249,7 +212,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Pacific/Auckland # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
