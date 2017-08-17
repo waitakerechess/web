@@ -11,7 +11,7 @@ title                    : "Waitakere Chess Club"
 title_separator          : "-"
 name                     : &name "Waitakere Chess Club" # &name is a YAML anchor which can be *referenced later
 description              : &description "Established in 1963, the Waitakere Chess club promotes and supports players of all levels and abilities.<br/>We meet for regular club nights on Thursdays, and regularly organise tournaments and events. Join us for a game!"
-url                      : http://0.0.0.0:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "waitakerechess/web"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
