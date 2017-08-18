@@ -10,13 +10,13 @@ feature_row:
   - image_path: /assets/images/juniorclubnight.jpg
     alt: "Junior Club"
     title: "Junior Club"
-    excerpt: 'Thursdays 6.15 – 7.15pm during <a href="http://www.education.govt.nz/ministry-of-education/school-terms-and-holidays/#cal2017">school term time</a>.'
+    excerpt: 'Thursdays 6.15 – 7.15pm<br/>during <a href="http://www.education.govt.nz/ministry-of-education/school-terms-and-holidays/#cal2017">school term</a>.'
     url: "/about/"
     btn_label: "Learn More"
   - image_path: /assets/images/seniorclubnight.jpg
     alt: "Senior Club"
     title: "Senior Club"
-    excerpt: "Thursdays 7.30pm till late."
+    excerpt: "Thursdays 7.30pm till late"
     url: "/about/"
     btn_label: "Learn More"
   - image_path: /assets/images/tournaments.jpg
