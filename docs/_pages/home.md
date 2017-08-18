@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/playchess.jpg
-  caption: 'Junior and senior club for all levels Thursday evenings'
+  caption: 
 
 feature_row:
   - image_path: /assets/images/juniorclubnight.jpg
