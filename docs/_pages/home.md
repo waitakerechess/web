@@ -4,26 +4,26 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/playchess.jpg
-  caption: 'Established in 1963, the Waitakere Chess club promotes and supports players of all levels and abilities. We meet for regular club nights on Thursdays, and regularly organise tournaments and events. Join us for a game'
+  caption: 'Junior and senior club for all levels Thursday evenings'
 
 feature_row:
-  - image_path: /assets/images/seniorclubnight.jpg
-    alt: "customizable"
-    title: "Senior Club Night"
-    excerpt: "Thursdays 7.30pm till late."
-    url: "/about/"
-    btn_label: "Learn More"
   - image_path: /assets/images/juniorclubnight.jpg
-    alt: "fully responsive"
-    title: "Junior Club Night"
+    alt: "Junior Club"
+    title: "Junior Club"
     excerpt: 'Thursdays 6.15 – 7.15pm during <a href="http://www.education.govt.nz/ministry-of-education/school-terms-and-holidays/#cal2017">school term time</a>.'
     url: "/about/"
     btn_label: "Learn More"
+  - image_path: /assets/images/seniorclubnight.jpg
+    alt: "Senior Club"
+    title: "Senior Club"
+    excerpt: "Thursdays 7.30pm till late."
+    url: "/about/"
+    btn_label: "Learn More"
   - image_path: /assets/images/tournaments.jpg
-    alt: "100% free"
+    alt: "Tournaments"
     title: "Tournaments"
     excerpt: "Trust's open, Auckland Girls, West Auckland"
-    url: "/tournaments/"
+    url: "/tournaments/2017/info"
     btn_label: "Learn More"
 ---
 
