@@ -1,10 +1,12 @@
 ---
 layout: splash
 permalink: /
+title: "Play Chess"
+excerpt: "Welcome to the Waitakere Chess Club."
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/playchess.jpg
-  caption: 
+  cta_url: "about"
 
 feature_row:
   - image_path: /assets/images/juniorclubnight.jpg
